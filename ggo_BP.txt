@@ -1,0 +1,524 @@
+ID	Description	Count	GeneRatio	geneID
+GO:0050789	GO:0050789	regulation of biological process	247	247/626	Slc24a4/Serpina3j/Serpina3k/Serpina3k/Serpina3m/Serpina3m/Tcl1b2/Tcl1b1/Tcl1b5/Tcl1b3/Ctla2a/Tpbpa/Ctsj/Ctsq/Pcsk1/Mctp1/Edil3/Htr1a/Rab3c/Hcn1/Fgf10/2610042L04Rik/Gm7324/Ang6/Tlr11/Ang4/Stc1/Gfra2/Pcdh17/Slitrk5/Gpc5/Nalcn/Itgbl1/Fgf14/Mroh2b/C7/Adamts12/Rims2/Zfpm2/Oxr1/Angpt1/Rspo2/Olfr209/Epha6/Htr1f/Rbm11/Chodl/Grik1/Dynlt1c/Rps6ka2/Tcp10a/Fndc1/Pacrg/Fpr3/Fpr-rs4/Fpr-rs3/H2-M11/H2-M9/H2-M1/H2-M2/Esp6/Esp6/Esp4/Kcnh8/Sorcs3/Celf2/Hacd1/Slc39a12/Malrd1/Gpr158/Myo3a/Adamtsl2/Dbh/Col5a1/Olfm1/Ntng2/Arhgap15/Kcnj3/Psmd14/Tbr1/Slc4a10/Scn2a/Scn1a/Scn9a/Pde1a/Zfp804a/Lrrc4c/Trim44/Bdnf/Sema6d/Slc24a3/Cst10/Syndig1/Ptprt/Zfhx4/Sirpb1a/Sirpb1b/Sirpb1c/Gm5150/Bhlhe22/Cyp7b1/Nlgn1/Pex5l/Fat4/Dhx36/Gpr149/Veph1/Slitrk3/Fstl5/Gria2/Glrb/Pdgfc/Tdpoz5/Kcnd3/Pifo/Chil5/Chia1/Chil3/Chil4/Chil6/Kcna3/Kcna2/Kcna10/Ntng1/Olfm3/Plppr4/Tacr3/Bank1/Unc5c/Bmpr1b/Adgrl4/Negr1/Lrrc7/Sdr16c5/Nkain3/Fhl5/Cnr1/Lingo2/Tmem215/Ccl19/Ccl21a/Grin3a/Mup1/Pappa/Astn2/Brinp1/Ptprd/Sh3gl2/Slc24a2/Zfp352/Elavl2/Pde4b/Dab1/Elavl4/Agbl4/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32/Adam22/Grm3/Sema3a/Pclo/Cacna2d1/Hgf/Magi2/Dpp6/Evc/Evc2/Stk32b/Ldb2/Kcnip4/G6pd2/Rbm47/Kctd8/Gabrg1/Gabra2/Gabra4/Gabrb1/Adgrl3/Epha5/Csn2/Odam/Smr3a/Smr2/Calcr/Foxp2/Kcnd2/Grm8/Plxna4/Chrm2/Ptn/Dgki/Kel/Pip/Sval2/Sval1/Sval3/Sva/Tcaf1/Cntnap2/Pde1c/Grid2/Atoh1/Vmn1r35/Vmn1r36/Tacstd2/Ctnna2/Lrrtm1/Reg2/Reg1/Reg3g/Gm20594/Lrrtm4/Vmn1r45/Vmn1r46/Fbln2/Chl1/Cntn6/Cntn4/Crbn/Lrrn1/Grm7/Mug1/Mug2/Clec4b1/Clec4b2/Clec4n/Clec4d/Clec4e/Tas2r113/Lmo3/Pira2/Nlrp2
+GO:0050794	GO:0050794	regulation of cellular process	213	213/626	Slc24a4/Tcl1b2/Tcl1b1/Tcl1b5/Tcl1b3/Ctla2a/Tpbpa/Ctsj/Ctsq/Pcsk1/Mctp1/Edil3/Htr1a/Rab3c/Hcn1/Fgf10/2610042L04Rik/Gm7324/Ang6/Tlr11/Ang4/Stc1/Gfra2/Pcdh17/Slitrk5/Gpc5/Nalcn/Itgbl1/Fgf14/Mroh2b/Adamts12/Rims2/Zfpm2/Oxr1/Angpt1/Rspo2/Olfr209/Epha6/Htr1f/Rbm11/Chodl/Grik1/Dynlt1c/Rps6ka2/Tcp10a/Fndc1/Pacrg/Fpr3/Fpr-rs4/Fpr-rs3/H2-M11/H2-M9/H2-M1/H2-M2/Esp6/Esp6/Esp4/Kcnh8/Sorcs3/Celf2/Hacd1/Slc39a12/Malrd1/Gpr158/Myo3a/Adamtsl2/Dbh/Col5a1/Olfm1/Ntng2/Arhgap15/Kcnj3/Tbr1/Slc4a10/Scn2a/Scn1a/Scn9a/Pde1a/Zfp804a/Lrrc4c/Trim44/Bdnf/Sema6d/Syndig1/Ptprt/Zfhx4/Sirpb1a/Sirpb1b/Sirpb1c/Gm5150/Bhlhe22/Cyp7b1/Nlgn1/Pex5l/Fat4/Dhx36/Gpr149/Veph1/Slitrk3/Fstl5/Gria2/Glrb/Pdgfc/Kcnd3/Pifo/Kcna3/Kcna2/Kcna10/Ntng1/Olfm3/Plppr4/Tacr3/Bank1/Unc5c/Bmpr1b/Adgrl4/Negr1/Lrrc7/Sdr16c5/Fhl5/Cnr1/Lingo2/Tmem215/Ccl19/Ccl21a/Grin3a/Mup1/Pappa/Astn2/Brinp1/Ptprd/Sh3gl2/Slc24a2/Zfp352/Elavl2/Pde4b/Dab1/Elavl4/Agbl4/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Adam22/Grm3/Sema3a/Pclo/Cacna2d1/Hgf/Magi2/Dpp6/Evc/Evc2/Stk32b/Ldb2/Kcnip4/G6pd2/Rbm47/Kctd8/Gabrg1/Gabra2/Gabra4/Gabrb1/Adgrl3/Epha5/Odam/Calcr/Foxp2/Kcnd2/Grm8/Plxna4/Chrm2/Ptn/Dgki/Kel/Pip/Tcaf1/Cntnap2/Pde1c/Grid2/Atoh1/Vmn1r35/Vmn1r36/Tacstd2/Ctnna2/Lrrtm1/Reg2/Reg1/Reg3g/Gm20594/Lrrtm4/Vmn1r45/Vmn1r46/Fbln2/Chl1/Cntn6/Cntn4/Crbn/Lrrn1/Grm7/Clec4b1/Clec4n/Clec4d/Clec4e/Tas2r113/Lmo3/Pira2
+GO:0071704	GO:0071704	organic substance metabolic process	180	180/626	Slc24a4/Serpina3j/Serpina3k/Serpina3k/Serpina3m/Serpina3m/Tcl1b2/Tcl1b1/Tcl1b5/Tcl1b3/Ctla2a/Ctsj/Ctsq/Pcsk1/Htr1a/Fgf10/2610042L04Rik/Gm7324/Ang6/Ang4/Gfra2/Adamts12/Acot10/Fbxl7/Rims2/Zfpm2/Oxr1/Angpt1/Epha6/Lipi/Rbm11/Tmprss15/Rps6ka2/Tcp10a/Fndc1/St6gal2/Cyp2c67/Cyp2c68/Cyp2c40/Celf2/Hacd1/Malrd1/Myo3a/Gad2/Hnmt/Tbpl2/Dbh/Sardh/Col5a1/Kynu/Galnt13/Galnt5/Psmd14/Tbr1/Slc4a10/B3galt1/Pde1a/Zfp804a/Trim44/Mettl15/Bdnf/Hao1/Sptlc3/Macrod2/Pcsk2/Slc24a3/Cst10/Ptprt/Zfhx4/Bhlhe22/Cyp7b1/Dhx36/Sis/Gria2/Pdgfc/Tdpoz5/Chil5/Chia1/Chil3/Chil4/Chil6/Col11a1/Plppr4/Dpyd/Ndst3/Ndst4/Ugt8a/Tacr3/Bank1/Pdha2/Bmpr1b/Sdr16c5/Mmp16/Mms22l/Fhl5/Cnr1/Ccl19/Ccl21a/Mup1/Pappa/Aldoart1/Ptprd/Sh3gl2/Zfp352/Cyp2j12/Cyp2j7/Cyp2j11/Cyp2j8/Pde4b/Dab1/Elavl4/Agbl4/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32/Cyp4b1/Adam22/Grm3/Hgf/Magi2/Dpp6/Stk32b/Ldb2/G6pd2/Rbm47/Tecrl/Epha5/Tmprss11a/Tmprss11g/Tmprss11f/Ugt2b37/Csn2/Odam/Galnt17/Calcr/Foxp2/Dgki/Mgam/Moxd2/Prss58/1810009J06Rik/Gm2663/Try4/Try5/Try10/Prss3/Gm5771/Gm10334/Prss1/Prss2/Kel/Pip/Sval2/Sval1/Sval3/Sva/Cntnap2/Atoh1/Gm9008/Reg1/Crbn/Mug1/Mug2/Clec4n/Clec4e/Lmo3
+GO:0048856	GO:0048856	anatomical structure development	159	159/626	Slc24a4/Abcb5/Ctla2a/Edil3/Adamts6/Hcn1/Fgf10/2610042L04Rik/Ang6/Ang4/Xkr6/Stc1/Gfra2/Pcdh17/Klhl1/Slitrk5/Fgf14/Spef2/Adamts12/Cdh9/Cdh10/Cdh12/Cdh18/Rims2/Zfpm2/Angpt1/Rspo2/Epha6/Cadm2/Rbm11/Chodl/Grik1/Nox3/Dynlt1c/Rps6ka2/Pacrg/Hacd1/Slc39a12/Nebl/Etl4/Myo3a/Tbpl2/Adamtsl2/Col5a1/Olfm1/Ntng2/Lrp1b/Arhgap15/Tbr1/Slc4a10/Scn2a/Scn9a/Zfp804a/Fsip2/Lrrc4c/Fjx1/Bdnf/Sema6d/Macrod2/Pcsk2/Slc24a3/Cst10/Syndig1/Bhlhe22/Cyp7b1/Nlgn1/Fat4/Dhx36/Gpr149/Slitrk3/Fstl5/Glrb/Pdgfc/Flg2/Flg/Pifo/Kcna2/Ntng1/Col11a1/Olfm3/Plppr4/Ugt8a/Unc5c/Bmpr1b/Negr1/Lrrc7/Mmp16/Cnr1/Spaca1/Lingo2/Tmem215/Ccl19/Ccl21a/Grin3a/Mup1/Astn2/Brinp1/Ptprd/Sh3gl2/Elavl2/Dab1/Elavl4/Agbl4/Skint1/Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32/Zfp980/Adam22/Sema3a/Pclo/Hgf/Magi2/Evc/Ldb2/G6pd2/Rbm47/Grxcr1/Gabra2/Gabra4/Adgrl3/Epha5/Tmprss11f/Csn2/Odam/Csn3/Calcr/Thsd7a/Foxp2/Zfp800/Plxna4/Ptn/Kel/Cntnap2/Vmn1r13/Grid2/Atoh1/Tacstd2/Ctnna2/Lrrtm1/Reg2/Reg1/Reg3g/Lrrtm4/Lrig1/Cntn3/Chl1/Cntn6/Cntn4/Lrrn1/Grm7/Mug1/Clec4d/Clec4e/Pira2
+GO:0044238	GO:0044238	primary metabolic process	154	154/626	Serpina3j/Serpina3k/Serpina3k/Serpina3m/Serpina3m/Tcl1b2/Tcl1b1/Tcl1b5/Tcl1b3/Ctla2a/Ctsj/Ctsq/Pcsk1/Htr1a/Fgf10/2610042L04Rik/Gm7324/Ang6/Ang4/Gfra2/Adamts12/Acot10/Fbxl7/Zfpm2/Oxr1/Angpt1/Epha6/Lipi/Rbm11/Tmprss15/Rps6ka2/Tcp10a/Fndc1/St6gal2/Cyp2c67/Cyp2c68/Cyp2c40/Celf2/Hacd1/Malrd1/Myo3a/Gad2/Tbpl2/Sardh/Kynu/Galnt13/Galnt5/Psmd14/Tbr1/Slc4a10/B3galt1/Pde1a/Trim44/Mettl15/Bdnf/Hao1/Sptlc3/Macrod2/Pcsk2/Cst10/Ptprt/Zfhx4/Bhlhe22/Cyp7b1/Dhx36/Sis/Pdgfc/Tdpoz5/Chia1/Chil3/Chil4/Col11a1/Plppr4/Dpyd/Ndst3/Ndst4/Ugt8a/Tacr3/Bank1/Pdha2/Bmpr1b/Sdr16c5/Mmp16/Mms22l/Fhl5/Cnr1/Ccl19/Ccl21a/Mup1/Pappa/Aldoart1/Ptprd/Sh3gl2/Zfp352/Cyp2j12/Cyp2j7/Cyp2j11/Cyp2j8/Dab1/Elavl4/Agbl4/Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32/Adam22/Hgf/Magi2/Dpp6/Stk32b/Ldb2/G6pd2/Rbm47/Tecrl/Epha5/Tmprss11a/Tmprss11g/Tmprss11f/Ugt2b37/Csn2/Odam/Galnt17/Calcr/Foxp2/Dgki/Mgam/Prss58/1810009J06Rik/Gm2663/Try4/Try5/Try10/Prss3/Gm5771/Gm10334/Prss1/Prss2/Kel/Pip/Sval2/Sval1/Sval3/Sva/Atoh1/Gm9008/Reg1/Crbn/Mug1/Mug2/Clec4n/Lmo3
+GO:0048518	GO:0048518	positive regulation of biological process	146	146/626	Slc24a4/Tcl1b2/Tcl1b1/Tcl1b5/Tcl1b3/Ctsj/Ctsq/Pcsk1/Edil3/Htr1a/Hcn1/Fgf10/Gm7324/Ang6/Tlr11/Ang4/Stc1/Slitrk5/Gpc5/Nalcn/Fgf14/C7/Rims2/Zfpm2/Angpt1/Rspo2/Chodl/Grik1/Dynlt1c/Rps6ka2/Fndc1/Fpr3/Fpr-rs4/Fpr-rs3/H2-M11/H2-M9/H2-M1/H2-M2/Hacd1/Slc39a12/Malrd1/Myo3a/Dbh/Olfm1/Tbr1/Zfp804a/Trim44/Bdnf/Sema6d/Slc24a3/Syndig1/Sirpb1a/Sirpb1b/Sirpb1c/Gm5150/Cyp7b1/Nlgn1/Pex5l/Dhx36/Slitrk3/Gria2/Pdgfc/Pifo/Chil5/Chia1/Chil3/Chil4/Chil6/Tacr3/Bank1/Unc5c/Bmpr1b/Negr1/Lrrc7/Sdr16c5/Fhl5/Cnr1/Lingo2/Ccl19/Ccl21a/Mup1/Brinp1/Ptprd/Sh3gl2/Slc24a2/Pde4b/Dab1/Elavl4/Agbl4/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32/Adam22/Sema3a/Pclo/Cacna2d1/Hgf/Magi2/Dpp6/Evc/Ldb2/G6pd2/Rbm47/Adgrl3/Epha5/Odam/Calcr/Foxp2/Plxna4/Ptn/Dgki/Pip/Tcaf1/Cntnap2/Grid2/Atoh1/Tacstd2/Lrrtm1/Reg2/Reg1/Reg3g/Lrrtm4/Fbln2/Cntn6/Crbn/Lrrn1/Clec4b1/Clec4b2/Clec4n/Clec4d/Clec4e/Lmo3
+GO:0051716	GO:0051716	cellular response to stimulus	144	144/626	Slc24a4/Tpbpa/Ctsj/Ctsq/Htr1a/Hcn1/Fgf10/Tlr11/Ang4/Gfra2/Gpc5/Itgbl1/Fgf14/Mroh2b/Ugt3a1/Ugt3a2/Adamts12/Rims2/Oxr1/Angpt1/Rspo2/Olfr209/Epha6/Htr1f/Rbm11/Grik1/Dynlt1c/Rps6ka2/Fndc1/Pacrg/Fpr3/Fpr-rs4/Fpr-rs3/Esp6/Esp6/Esp4/Cyp2c67/Cyp2c68/Cyp2c40/Slc39a12/Gpr158/Adamtsl2/Dbh/Olfm1/Arhgap15/Psmd14/Scn2a/Pde1a/Trim44/Bdnf/Sema6d/Macrod2/Ptprt/Sirpb1a/Cyp7b1/Nlgn1/Pex5l/Fat4/Dhx36/Gpr149/Veph1/Fstl5/Gria2/Glrb/Pdgfc/Lce1d/Olfm3/Plppr4/Tacr3/Bank1/Unc5c/Bmpr1b/Adgrl4/Mms22l/Cnr1/Ccl19/Ccl21a/Grin3a/Mup1/Pappa/Brinp1/Ptprd/Elavl2/Cyp2j12/Cyp2j7/Cyp2j11/Cyp2j8/Pde4b/Dab1/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Grm3/Sema3a/Pclo/Cacna2d1/Hgf/Magi2/Evc/Evc2/Stk32b/G6pd2/Rbm47/Kctd8/Gabrg1/Gabra2/Gabra4/Gabrb1/Adgrl3/Epha5/Calcr/Kcnd2/Grm8/Plxna4/Chrm2/Ptn/Dgki/Sva/Cntnap2/Pde1c/Grid2/Atoh1/Vmn1r35/Vmn1r36/Reg1/Reg3g/Vmn1r45/Vmn1r46/Cntn6/Crbn/Grm7/Clec4n/Clec4d/Clec4e/Tas2r113/Lmo3/Pira2
+GO:0007154	GO:0007154	cell communication	141	141/626	Slc24a4/Tpbpa/Ctsj/Ctsq/Mctp1/Htr1a/Hcn1/Fgf10/2610042L04Rik/Tlr11/Gfra2/Pcdh17/Slitrk5/Gpc5/Nalcn/Itgbl1/Fgf14/Mroh2b/Adamts12/Rims2/Angpt1/Rspo2/Olfr209/Epha6/Htr1f/Grik1/Dynlt1c/Rps6ka2/Fpr3/Fpr-rs4/Fpr-rs3/Esp6/Esp6/Esp4/Sorcs3/Slc39a12/Gpr158/Adamtsl2/Dbh/Olfm1/Ntng2/Arhgap15/Slc4a10/Scn2a/Scn1a/Scn9a/Scn7a/Pde1a/Lrrc4c/Trim44/Fjx1/Bdnf/Sema6d/Ptprt/Sirpb1a/Cyp7b1/Nlgn1/Pex5l/Fat4/Dhx36/Gpr149/Veph1/Slitrk3/Fstl5/Gria2/Glrb/Pdgfc/Kcna2/Ntng1/Olfm3/Plppr4/Tacr3/Bank1/Unc5c/Bmpr1b/Adgrl4/Cnr1/Ccl19/Ccl21a/Grin3a/Mup1/Pappa/Ptprd/Slc24a2/Pde4b/Dab1/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Grm3/Sema3a/Pclo/Cacna2d1/Hgf/Magi2/Dpp6/Evc/Evc2/Stk32b/Rbm47/Kctd8/Gabrg1/Gabra2/Gabra4/Gabrb1/Adgrl3/Epha5/Calcr/Kcnd2/Grm8/Plxna4/Chrm2/Ptn/Dgki/Cntnap2/Pde1c/Grid2/Atoh1/Vmn1r35/Vmn1r36/Lrrtm1/Reg1/Reg3g/Vmn1r45/Vmn1r46/Cntn6/Crbn/Grm7/Clec4n/Clec4d/Clec4e/Tas2r113/Lmo3/Pira2
+GO:0007275	GO:0007275	multicellular organism development	140	140/626	Slc24a4/Abcb5/Ctla2a/Edil3/Adamts6/Hcn1/Fgf10/2610042L04Rik/Ang6/Ang4/Stc1/Gfra2/Pcdh17/Klhl1/Slitrk5/Fgf14/Spef2/Adamts12/Cdh9/Cdh10/Cdh12/Cdh18/Rims2/Zfpm2/Angpt1/Rspo2/Epha6/Cadm2/Rbm11/Chodl/Grik1/Dynlt1c/Rps6ka2/Hacd1/Slc39a12/Nebl/Etl4/Myo3a/Tbpl2/Adamtsl2/Col5a1/Olfm1/Ntng2/Lrp1b/Tbr1/Slc4a10/Scn2a/Scn9a/Zfp804a/Lrrc4c/Fjx1/Bdnf/Sema6d/Macrod2/Pcsk2/Cst10/Syndig1/Bhlhe22/Cyp7b1/Nlgn1/Fat4/Dhx36/Gpr149/Slitrk3/Fstl5/Glrb/Pdgfc/Flg/Pifo/Kcna2/Ntng1/Col11a1/Olfm3/Plppr4/Ugt8a/Unc5c/Bmpr1b/Negr1/Lrrc7/Mmp16/Cnr1/Lingo2/Tmem215/Ccl19/Ccl21a/Grin3a/Astn2/Brinp1/Ptprd/Sh3gl2/Elavl2/Dab1/Elavl4/Agbl4/Skint1/Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32/Adam22/Sema3a/Pclo/Hgf/Magi2/Evc/Ldb2/G6pd2/Grxcr1/Gabra2/Gabra4/Adgrl3/Epha5/Thsd7a/Foxp2/Zfp800/Plxna4/Ptn/Kel/Cntnap2/Grid2/Atoh1/Tacstd2/Ctnna2/Lrrtm1/Reg2/Reg1/Reg3g/Lrrtm4/Lrig1/Cntn3/Chl1/Cntn6/Cntn4/Lrrn1/Grm7/Mug1/Pira2
+GO:0006807	GO:0006807	nitrogen compound metabolic process	135	135/626	Serpina3j/Serpina3k/Serpina3k/Serpina3m/Serpina3m/Tcl1b2/Tcl1b1/Tcl1b5/Tcl1b3/Ctla2a/Ctsj/Ctsq/Pcsk1/Htr1a/Fgf10/2610042L04Rik/Gm7324/Ang6/Ang4/Gfra2/Adamts12/Acot10/Fbxl7/Zfpm2/Oxr1/Angpt1/Epha6/Rbm11/Tmprss15/Rps6ka2/Tcp10a/Fndc1/St6gal2/Celf2/Hacd1/Myo3a/Gad2/Hnmt/Tbpl2/Dbh/Sardh/Kynu/Galnt13/Galnt5/Psmd14/Tbr1/Slc4a10/B3galt1/Pde1a/Trim44/Mettl15/Bdnf/Hao1/Sptlc3/Macrod2/Pcsk2/Cst10/Ptprt/Zfhx4/Bhlhe22/Dhx36/Pdgfc/Tdpoz5/Chil5/Chia1/Chil3/Chil4/Chil6/Col11a1/Dpyd/Ndst3/Ndst4/Ugt8a/Tacr3/Bank1/Pdha2/Bmpr1b/Sdr16c5/Mmp16/Mms22l/Fhl5/Ccl19/Ccl21a/Mup1/Pappa/Aldoart1/Ptprd/Sh3gl2/Zfp352/Dab1/Elavl4/Agbl4/Adam22/Hgf/Magi2/Dpp6/Stk32b/Ldb2/G6pd2/Rbm47/Epha5/Tmprss11a/Tmprss11g/Tmprss11f/Csn2/Odam/Galnt17/Calcr/Foxp2/Moxd2/Prss58/1810009J06Rik/Gm2663/Try4/Try5/Try10/Prss3/Gm5771/Gm10334/Prss1/Prss2/Kel/Pip/Sval2/Sval1/Sval3/Sva/Atoh1/Gm9008/Reg1/Crbn/Mug1/Mug2/Clec4n/Lmo3
+GO:0071840	GO:0071840	cellular component organization or biogenesis	120	120/626	Mctp1/Adamts6/Htr1a/Hcn1/Fgf10/2610042L04Rik/Xkr6/Pcdh17/Klhl1/Slitrk5/Tpm3-rs7/Spef2/Adamts12/Cdh9/Cdh10/Cdh12/Cdh18/Rims2/Angpt1/Epha6/Chodl/Dynlt1c/Rps6ka2/Tcp10a/Celf2/Hacd1/Slc39a12/Nebl/Myo3a/Adamtsl2/Col5a1/Olfm1/Ntng2/Tbr1/Zfp804a/Fsip2/Lrrc4c/Mettl15/Bdnf/Ano3/Sema6d/Syndig1/Ptprt/Bhlhe22/Nlgn1/Pex5l/Fat4/Dhx36/Slitrk3/Gria2/Glrb/Pdgfc/Flg/Kcnd3/Pifo/Kcna3/Kcna2/Kcna10/Ntng1/Col11a1/Plppr4/Tram1l1/Ugt8a/Unc5c/Bmpr1b/Adgrl4/Negr1/Lrrc7/Mmp16/Mms22l/Cnr1/Spaca1/Lingo2/1700009N14Rik/Ccl19/Ccl21a/Grin3a/Mup1/Frmd3/Ptprd/Cntln/Sh3gl2/Adamtsl1/Slc24a2/Elavl2/Dab1/Elavl4/Sema3a/Pclo/Hgf/Magi2/Ldb2/G6pd2/Grxcr1/Kctd8/Gabra2/Adgrl3/Epha5/Odam/Thsd7a/Kcnd2/Plxna4/Ptn/Kel/Cntnap2/Grid2/Atoh1/Tacstd2/Ctnna2/Lrrtm1/Reg1/Lrrtm4/Fbln2/Chl1/Cntn6/Cntn4/Crbn/Lrrn1/Grm7/Clcn4
+GO:0007165	GO:0007165	signal transduction	119	119/626	Slc24a4/Tpbpa/Ctsj/Ctsq/Htr1a/Fgf10/Tlr11/Gfra2/Gpc5/Itgbl1/Fgf14/Mroh2b/Adamts12/Rims2/Angpt1/Rspo2/Olfr209/Epha6/Htr1f/Grik1/Dynlt1c/Rps6ka2/Fpr3/Fpr-rs4/Fpr-rs3/Esp6/Esp6/Esp4/Slc39a12/Gpr158/Adamtsl2/Dbh/Olfm1/Arhgap15/Scn2a/Pde1a/Trim44/Bdnf/Sema6d/Ptprt/Sirpb1a/Cyp7b1/Nlgn1/Pex5l/Fat4/Dhx36/Gpr149/Veph1/Fstl5/Gria2/Glrb/Pdgfc/Olfm3/Plppr4/Tacr3/Bank1/Unc5c/Bmpr1b/Adgrl4/Cnr1/Ccl19/Ccl21a/Grin3a/Mup1/Pappa/Ptprd/Pde4b/Dab1/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Grm3/Sema3a/Pclo/Hgf/Magi2/Evc/Evc2/Stk32b/Rbm47/Kctd8/Gabrg1/Gabra2/Gabra4/Gabrb1/Adgrl3/Epha5/Calcr/Grm8/Plxna4/Chrm2/Ptn/Dgki/Cntnap2/Pde1c/Grid2/Atoh1/Vmn1r35/Vmn1r36/Reg1/Reg3g/Vmn1r45/Vmn1r46/Cntn6/Crbn/Grm7/Clec4n/Clec4d/Clec4e/Tas2r113/Lmo3/Pira2
+GO:0044237	GO:0044237	cellular metabolic process	118	118/626	Tcl1b2/Tcl1b1/Tcl1b5/Tcl1b3/Pcsk1/Htr1a/Fgf10/2610042L04Rik/Gm7324/Ang6/Ang4/Gfra2/Adamts12/Acot10/Fbxl7/Zfpm2/Angpt1/Epha6/Rbm11/Nox3/Rps6ka2/Tcp10a/Fndc1/St6gal2/Cyp2c67/Cyp2c68/Cyp2c40/Celf2/Hacd1/Malrd1/Myo3a/Gad2/Hnmt/Tbpl2/Dbh/Sardh/Kynu/Galnt13/Galnt5/Psmd14/Tbr1/Slc4a10/B3galt1/Pde1a/Trim44/Mettl15/Bdnf/Hao1/Sptlc3/Macrod2/Ptprt/Zfhx4/Bhlhe22/Cyp7b1/Dhx36/Sis/Gria2/Pdgfc/Tdpoz5/Pifo/Col11a1/Plppr4/Dpyd/Ndst3/Ndst4/Ugt8a/Tacr3/Bank1/Pdha2/Bmpr1b/Sdr16c5/Mms22l/Fhl5/Cnr1/Ccl19/Ccl21a/Mup1/Aldoart1/Ptprd/Sh3gl2/Zfp352/Cyp2j12/Cyp2j7/Cyp2j11/Cyp2j8/Dab1/Elavl4/Agbl4/Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32/Cyp4b1/Hgf/Magi2/Stk32b/Ldb2/G6pd2/Rbm47/Tecrl/Epha5/Ugt2b37/Odam/Galnt17/Calcr/Foxp2/Dgki/Mgam/Moxd2/Atoh1/Gm9008/Reg1/Crbn/Clec4n/Lmo3
+GO:0042221	GO:0042221	response to chemical	110	110/626	Slc24a4/Serpina3k/Serpina3k/Serpina3m/Serpina3m/Tpbpa/Htr1a/Hcn1/Fgf10/Ang6/Ang4/Slitrk5/Ugt3a1/Ugt3a2/Adamts12/Oxr1/Angpt1/Epha6/Htr1f/Rbm11/Rps6ka2/Fndc1/Pacrg/Fpr3/Fpr-rs3/Cyp2c67/Cyp2c68/Cyp2c40/Dbh/Kynu/Tbr1/Scn2a/Scn9a/Trim44/Bdnf/Sema6d/Ptprt/Cyp7b1/Nlgn1/Dhx36/Gria2/Pdgfc/Lce1d/Dpyd/Tacr3/Unc5c/Bmpr1b/Cnr1/Ccl19/Ccl21a/Grin3a/Mup1/Pappa/Brinp1/Elavl2/Cyp2j12/Cyp2j7/Cyp2j11/Cyp2j8/Pde4b/Sema3a/Cacna2d1/Hgf/G6pd2/Rbm47/Gabrb1/Adgrl3/Epha5/Csn1s1/Smr2/Calcr/Kcnd2/Plxna4/Chrm2/Ptn/Prss2/Pip/Sva/Cntnap2/Pde1c/Vmn1r6/Vmn1r7/Vmn1r8/Vmn1r9/Vmn1r16/Vmn1r17/Vmn1r18/Vmn1r19/Vmn1r22/Vmn1r23/Vmn1r24/Vmn1r26/Vmn1r30/Atoh1/Vmn1r33/Vmn1r35/Vmn1r36/Vmn1r37/Vmn1r38/Reg2/Reg1/Reg3g/Vmn1r45/Vmn1r46/Chl1/Cntn6/Cntn4/Tas2r113/Lmo3/Pira2
+GO:0048522	GO:0048522	positive regulation of cellular process	109	109/626	Tcl1b2/Tcl1b1/Tcl1b5/Tcl1b3/Ctsj/Ctsq/Pcsk1/Edil3/Htr1a/Hcn1/Fgf10/Gm7324/Ang6/Ang4/Slitrk5/Gpc5/Nalcn/Fgf14/Rims2/Zfpm2/Angpt1/Rspo2/Chodl/Grik1/Dynlt1c/Rps6ka2/Fndc1/H2-M11/H2-M9/H2-M1/H2-M2/Hacd1/Malrd1/Myo3a/Olfm1/Tbr1/Zfp804a/Trim44/Bdnf/Sema6d/Syndig1/Sirpb1a/Sirpb1b/Sirpb1c/Gm5150/Cyp7b1/Nlgn1/Pex5l/Dhx36/Slitrk3/Gria2/Pdgfc/Pifo/Tacr3/Bank1/Unc5c/Bmpr1b/Negr1/Lrrc7/Fhl5/Cnr1/Lingo2/Ccl19/Ccl21a/Mup1/Brinp1/Ptprd/Sh3gl2/Slc24a2/Dab1/Elavl4/Agbl4/Skint1/Adam22/Sema3a/Cacna2d1/Hgf/Magi2/Dpp6/Evc/Ldb2/G6pd2/Rbm47/Adgrl3/Epha5/Odam/Calcr/Foxp2/Plxna4/Ptn/Dgki/Tcaf1/Cntnap2/Grid2/Atoh1/Tacstd2/Lrrtm1/Reg2/Reg1/Reg3g/Lrrtm4/Fbln2/Cntn6/Crbn/Lrrn1/Clec4b1/Clec4n/Clec4d/Lmo3
+GO:0051234	GO:0051234	establishment of localization	105	105/626	Slc24a4/Abcb5/Pcsk1/Mctp1/Htr1a/Rab3c/Hcn1/Fgf10/Ang6/Slc35f4/Ang4/Xkr6/Stc1/Pcdh17/Nalcn/Fgf14/Spef2/Rims2/Angpt1/Grik1/Dynlt1c/Fndc1/Kcnh8/Sorcs1/Slc39a12/Malrd1/Lrp1b/Kcnj3/Slc4a10/Scn2a/Scn1a/Scn9a/Scn7a/Bdnf/Slc5a12/Ano3/Ryr3/Slc24a3/Syndig1/Slc7a12/Sirpb1a/Sirpb1b/Sirpb1c/Gm5150/Nlgn1/Pex5l/Gria2/Glrb/Kcnd3/Kcna3/Kcna2/Kcna10/Plppr4/Tram1l1/Lrrc7/Slc26a7/Cngb3/Nkain3/Cnr1/1700009N14Rik/Ccl19/Ccl21a/Grin3a/Mup1/Astn2/Sh3gl2/Slc24a2/Pde4b/Agbl4/Slc5a9/Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32/Pclo/Cacna2d1/Magi2/Dpp6/Kcnip4/G6pd2/Gabrg1/Gabra2/Gabra4/Gabrb1/Epha5/Csn2/Csn3/Calcr/Kcnd2/Grm8/Dgki/Kel/Tcaf1/Pde1c/Grid2/Lrrtm1/Slc25a26/Crbn/Grm7/Slc6a11/Clec4b1/Clcn4
+GO:0048519	GO:0048519	negative regulation of biological process	99	99/626	Slc24a4/Serpina3j/Serpina3k/Serpina3k/Serpina3m/Serpina3m/Ctla2a/Mctp1/Htr1a/Hcn1/Fgf10/2610042L04Rik/Ang6/Ang4/Stc1/Gfra2/Pcdh17/Adamts12/Zfpm2/Oxr1/Angpt1/Rspo2/Grik1/Dynlt1c/Rps6ka2/Tcp10a/Pacrg/Kcnh8/Sorcs3/Celf2/Malrd1/Adamtsl2/Col5a1/Tbr1/Scn9a/Trim44/Bdnf/Sema6d/Slc24a3/Cst10/Ptprt/Bhlhe22/Cyp7b1/Nlgn1/Dhx36/Gpr149/Veph1/Bank1/Sdr16c5/Cnr1/Tmem215/Ccl19/Ccl21a/Grin3a/Mup1/Astn2/Brinp1/Ptprd/Sh3gl2/Slc24a2/Pde4b/Dab1/Elavl4/Agbl4/Sema3a/Hgf/Magi2/Ldb2/G6pd2/Rbm47/Epha5/Csn2/Calcr/Foxp2/Plxna4/Ptn/Dgki/Kel/Pip/Tcaf1/Cntnap2/Pde1c/Grid2/Atoh1/Tacstd2/Ctnna2/Lrrtm1/Reg1/Reg3g/Gm20594/Chl1/Cntn4/Crbn/Grm7/Mug1/Mug2/Clec4b1/Lmo3/Pira2
+GO:0048869	GO:0048869	cellular developmental process	98	98/626	Abcb5/Ctla2a/Hcn1/Fgf10/Stc1/Klhl1/Slitrk5/Mroh2b/Spef2/Adamts12/Rims2/Zfpm2/Angpt1/Rspo2/Epha6/Rbm11/Chodl/Dynlt1c/Rps6ka2/Pacrg/Hacd1/Slc39a12/Nebl/Myo3a/Col5a1/Olfm1/Ntng2/Tbr1/Slc4a10/Zfp804a/Fsip2/Lrrc4c/Bdnf/Sema6d/Cst10/Bhlhe22/Nlgn1/Fat4/Dhx36/Gpr149/Slitrk3/Fstl5/Ntng1/Col11a1/Olfm3/Plppr4/Ugt8a/Unc5c/Bmpr1b/Negr1/Lrrc7/Cnr1/Spaca1/Tmem215/Ccl19/Ccl21a/Grin3a/Mup1/Astn2/Brinp1/Ptprd/Sh3gl2/Dab1/Elavl4/Agbl4/Skint1/Zfp980/Adam22/Sema3a/Hgf/Magi2/G6pd2/Rbm47/Grxcr1/Adgrl3/Epha5/Calcr/Thsd7a/Foxp2/Zfp800/Plxna4/Ptn/Kel/Cntnap2/Vmn1r13/Grid2/Atoh1/Tacstd2/Ctnna2/Reg1/Reg3g/Chl1/Cntn6/Cntn4/Grm7/Clec4d/Clec4e/Pira2
+GO:0065008	GO:0065008	regulation of biological quality	96	96/626	Slc24a4/Abcb5/Pcsk1/Mctp1/Htr1a/Hcn1/Fgf10/2610042L04Rik/Xkr6/Slitrk5/Nalcn/Fgf14/Rims2/Angpt1/Grik1/Dynlt1c/Rps6ka2/Fpr3/Fpr-rs4/Fpr-rs3/Esp1/Kcnh8/Sorcs3/Myo3a/Gad2/Hnmt/Dbh/Olfm1/Ntng2/Slc4a10/Scn2a/Scn1a/Scn9a/Scn7a/Zfp804a/Trim44/Bdnf/Ano3/Ryr3/Sema6d/Pcsk2/Syndig1/Ptprt/Nlgn1/Pex5l/Dhx36/Slitrk3/Glrb/Kcnd3/Kcna2/Tacr3/Bmpr1b/Negr1/Lrrc7/Sdr16c5/Cnr1/Lingo2/Ccl21a/Mup1/Ptprd/Sh3gl2/Slc24a2/Elavl2/Elavl4/Adam22/Sema3a/Pclo/Cacna2d1/Magi2/Dpp6/Rbm47/Gabrg1/Gabra2/Gabra4/Gabrb1/Adgrl3/Epha5/Ugt2b37/Csn2/Csn3/Calcr/Kcnd2/Grm8/Plxna4/Ptn/Dgki/Moxd2/Kel/Cntnap2/Pde1c/Grid2/Ctnna2/Lrrtm1/Lrrtm4/Lrrn1/Slc6a11
+GO:0019222	GO:0019222	regulation of metabolic process	94	94/626	Slc24a4/Serpina3j/Serpina3k/Serpina3k/Serpina3m/Serpina3m/Tcl1b2/Tcl1b1/Tcl1b5/Tcl1b3/Ctla2a/Ctsj/Ctsq/Htr1a/Fgf10/2610042L04Rik/Gm7324/Ang6/Ang4/Gfra2/Rims2/Zfpm2/Oxr1/Angpt1/Rbm11/Rps6ka2/Tcp10a/Fndc1/Celf2/Malrd1/Dbh/Psmd14/Tbr1/Zfp804a/Trim44/Bdnf/Slc24a3/Cst10/Ptprt/Zfhx4/Bhlhe22/Dhx36/Gria2/Pdgfc/Tdpoz5/Pifo/Chil5/Chia1/Chil3/Chil4/Chil6/Tacr3/Bank1/Bmpr1b/Sdr16c5/Fhl5/Cnr1/Ccl19/Ccl21a/Mup1/Sh3gl2/Zfp352/Pde4b/Dab1/Elavl4/Agbl4/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Hgf/Magi2/Ldb2/G6pd2/Rbm47/Epha5/Csn2/Odam/Calcr/Foxp2/Pip/Atoh1/Reg1/Mug1/Mug2/Clec4n/Clec4e/Lmo3
+GO:0051239	GO:0051239	regulation of multicellular organismal process	84	84/626	Slc24a4/Ctla2a/Htr1a/Hcn1/Fgf10/Stc1/Slitrk5/Adamts12/Rims2/Zfpm2/Angpt1/Rspo2/Chodl/Grik1/Slc39a12/Dbh/Bdnf/Sema6d/Syndig1/Sirpb1a/Sirpb1b/Sirpb1c/Gm5150/Nlgn1/Pex5l/Fat4/Dhx36/Gpr149/Slitrk3/Pdgfc/Kcnd3/Chil5/Chia1/Chil3/Chil4/Chil6/Kcna2/Tacr3/Bank1/Bmpr1b/Cnr1/Lingo2/Ccl19/Ccl21a/Brinp1/Ptprd/Pde4b/Dab1/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Grm3/Sema3a/Pclo/Cacna2d1/Hgf/G6pd2/Rbm47/Adgrl3/Smr3a/Smr2/Calcr/Plxna4/Chrm2/Ptn/Cntnap2/Grid2/Atoh1/Tacstd2/Lrrtm1/Reg3g/Lrrtm4/Lrrn1/Clec4n/Clec4d/Clec4e/Pira2
+GO:0048523	GO:0048523	negative regulation of cellular process	80	80/626	Slc24a4/Mctp1/Hcn1/Fgf10/2610042L04Rik/Ang6/Ang4/Stc1/Gfra2/Pcdh17/Adamts12/Zfpm2/Oxr1/Angpt1/Grik1/Dynlt1c/Rps6ka2/Tcp10a/Pacrg/Kcnh8/Sorcs3/Malrd1/Adamtsl2/Col5a1/Tbr1/Bdnf/Sema6d/Ptprt/Bhlhe22/Cyp7b1/Nlgn1/Dhx36/Veph1/Bank1/Sdr16c5/Cnr1/Tmem215/Ccl19/Ccl21a/Mup1/Astn2/Brinp1/Ptprd/Sh3gl2/Slc24a2/Pde4b/Dab1/Elavl4/Agbl4/Sema3a/Hgf/Magi2/Ldb2/G6pd2/Rbm47/Epha5/Foxp2/Plxna4/Ptn/Dgki/Kel/Pip/Tcaf1/Cntnap2/Pde1c/Grid2/Atoh1/Tacstd2/Ctnna2/Lrrtm1/Reg1/Reg3g/Gm20594/Chl1/Cntn4/Crbn/Grm7/Clec4b1/Lmo3/Pira2
+GO:0003008	GO:0003008	system process	80	80/626	Slc24a4/Htr1a/Hcn1/Fgf10/Stc1/Tpm3-rs7/Fgf14/Spef2/Rims2/Angpt1/Olfr209/Grik1/Rps6ka2/Sorcs3/Myo3a/Dbh/Tbr1/Slc4a10/Scn2a/Scn1a/Scn9a/Scn7a/Bdnf/Ryr3/Cyp7b1/Nlgn1/Pex5l/Glrb/Kcnd3/Kcna2/Col11a1/Tacr3/Slc26a7/Cngb3/Cnr1/Grin3a/Brinp1/Sh3gl2/Slc24a2/Pde4b/Elavl4/Grm3/Sema3a/Pclo/Cacna2d1/Hgf/Lhfpl3/Dpp6/G6pd2/Grxcr1/Gabrg1/Gabra2/Gabra4/Gabrb1/Smr3a/Smr2/Foxp2/Kcnd2/Grm8/Chrm2/Ptn/Dgki/Pip/Cntnap2/Pde1c/Vmn1r10/Vmn1r11/Vmn1r13/Vmn1r14/Vmn1r15/Vmn1r25/Vmn1r29/Vmn1r30/Grid2/Ctnna2/Vmn1r46/Lrig1/Chl1/Grm7/Tas2r113
+GO:0009653	GO:0009653	anatomical structure morphogenesis	80	80/626	Slc24a4/Hcn1/Fgf10/Ang6/Ang4/Stc1/Slitrk5/Spef2/Adamts12/Cdh9/Cdh10/Cdh12/Cdh18/Rims2/Zfpm2/Angpt1/Rspo2/Epha6/Chodl/Dynlt1c/Hacd1/Slc39a12/Nebl/Myo3a/Col5a1/Olfm1/Ntng2/Arhgap15/Tbr1/Slc4a10/Lrrc4c/Fjx1/Bdnf/Sema6d/Cst10/Bhlhe22/Cyp7b1/Nlgn1/Fat4/Dhx36/Slitrk3/Pdgfc/Flg2/Kcna2/Ntng1/Col11a1/Olfm3/Plppr4/Ugt8a/Unc5c/Bmpr1b/Mmp16/Spaca1/Tmem215/Mup1/Astn2/Ptprd/Sh3gl2/Dab1/Elavl4/Sema3a/Hgf/Grxcr1/Epha5/Odam/Thsd7a/Foxp2/Plxna4/Ptn/Kel/Cntnap2/Grid2/Atoh1/Tacstd2/Ctnna2/Reg1/Lrig1/Chl1/Cntn6/Cntn4
+GO:0048583	GO:0048583	regulation of response to stimulus	80	80/626	Slc24a4/Ctla2a/Ctsj/Ctsq/Mctp1/Fgf10/Tlr11/Gpc5/C7/Adamts12/Rims2/Oxr1/Angpt1/Rspo2/Grik1/Dynlt1c/Fpr3/Fpr-rs4/Fpr-rs3/H2-M11/H2-M9/H2-M1/H2-M2/Adamtsl2/Dbh/Tbr1/Trim44/Bdnf/Sema6d/Ptprt/Cyp7b1/Nlgn1/Pex5l/Dhx36/Veph1/Fstl5/Pdgfc/Bank1/Bmpr1b/Cnr1/Ccl19/Ccl21a/Grin3a/Mup1/Ptprd/Pde4b/Dab1/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Sema3a/Pclo/Hgf/Magi2/Evc/G6pd2/Rbm47/Kctd8/Calcr/Plxna4/Ptn/Dgki/Pde1c/Grid2/Ctnna2/Reg3g/Cntn6/Crbn/Clec4n/Clec4d/Clec4e/Lmo3/Nlrp2
+GO:0023051	GO:0023051	regulation of signaling	71	71/626	Slc24a4/Ctsj/Ctsq/Mctp1/Htr1a/Hcn1/Fgf10/2610042L04Rik/Pcdh17/Gpc5/Nalcn/Fgf14/Adamts12/Rims2/Angpt1/Rspo2/Grik1/Dynlt1c/Sorcs3/Adamtsl2/Dbh/Ntng2/Slc4a10/Lrrc4c/Trim44/Bdnf/Ptprt/Cyp7b1/Nlgn1/Pex5l/Dhx36/Veph1/Fstl5/Gria2/Pdgfc/Ntng1/Plppr4/Bank1/Bmpr1b/Cnr1/Ccl19/Ccl21a/Grin3a/Mup1/Ptprd/Slc24a2/Pde4b/Dab1/Grm3/Pclo/Hgf/Magi2/Evc/Rbm47/Kctd8/Epha5/Calcr/Grm8/Chrm2/Ptn/Dgki/Cntnap2/Pde1c/Grid2/Lrrtm1/Cntn6/Crbn/Grm7/Clec4n/Clec4d/Lmo3
+GO:0032879	GO:0032879	regulation of localization	68	68/626	Pcsk1/Mctp1/Htr1a/Rab3c/Hcn1/Fgf10/Ang6/Ang4/Stc1/Pcdh17/Gpc5/Nalcn/Fgf14/Rims2/Angpt1/Grik1/Fndc1/Kcnh8/Malrd1/Kcnj3/Scn2a/Scn1a/Scn9a/Sirpb1a/Sirpb1b/Sirpb1c/Gm5150/Nlgn1/Pex5l/Dhx36/Kcnd3/Kcna3/Kcna2/Kcna10/Nkain3/Cnr1/Ccl19/Ccl21a/Mup1/Astn2/Sh3gl2/Pde4b/Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32/Adam22/Pclo/Cacna2d1/Magi2/Dpp6/Kcnip4/G6pd2/Epha5/Calcr/Kcnd2/Grm8/Ptn/Kel/Tcaf1/Pde1c/Lrrtm1/Crbn/Grm7/Clec4b1
+GO:0006950	GO:0006950	response to stress	66	66/626	Ctla2a/Tpbpa/Mctp1/Htr1a/Hcn1/Fgf10/Ang6/Tlr11/Ang4/Fgf14/Adamts12/Oxr1/Rbm11/Grik1/Nox3/Fndc1/Pacrg/Fpr3/Fpr-rs4/Fpr-rs3/Dbh/Col5a1/Kynu/Psmd14/Scn2a/Scn9a/Trim44/Bdnf/Macrod2/Dhx36/Chil5/Chia1/Chil3/Chil4/Chil6/Tacr3/Bmpr1b/Mms22l/Cnr1/Ccl27b/Ccl19/Ccl21a/Mup1/Brinp1/Pde4b/Agbl4/Grm3/Hgf/G6pd2/Rbm47/Odam/Kcnd2/Ptn/Cntnap2/Reg2/Reg1/Reg3g/Grm7/Clec4a4/Clec4b1/Clec4a2/Clec4b2/Clec4n/Clec4d/Clec4e/Nlrp2
+GO:0009605	GO:0009605	response to external stimulus	65	65/626	Slc24a4/Ctla2a/Fgf10/Ang6/Tlr11/Ang4/Adamts12/Angpt1/Epha6/Nox3/Fpr3/Fpr-rs3/Kynu/Tbr1/Scn1a/Scn9a/Scn7a/Trim44/Bdnf/Ano3/Sema6d/Macrod2/Cyp7b1/Naaladl2/Dhx36/Glrb/Col11a1/Dpyd/Bank1/Unc5c/Bmpr1b/Cnr1/Ccl27b/Ccl19/Ccl21a/Grin3a/Mup1/Pde4b/Agbl4/Sema3a/Hgf/Rbm47/Epha5/Foxp2/Grm8/Plxna4/Ptn/Cntnap2/Grid2/Atoh1/Ctnna2/Reg2/Reg1/Reg3g/Chl1/Cntn6/Cntn4/Clec4a4/Clec4b1/Clec4a2/Clec4b2/Clec4n/Clec4d/Clec4e/Nlrp2
+GO:0051641	GO:0051641	cellular localization	61	61/626	Pcsk1/Mctp1/Htr1a/Rab3c/Hcn1/Fgf10/Ang6/Ang4/Pcdh17/Gpc5/Fgf14/Spef2/Rims2/Angpt1/Grik1/Dynlt1c/Fndc1/Pacrg/Malrd1/Gpr158/Scn1a/Fsip2/Ano3/Syndig1/Sirpb1a/Nlgn1/Pex5l/Dhx36/Slitrk3/Gria2/Glrb/Tram1l1/Ugt8a/Lrrc7/Cnr1/1700009N14Rik/Ccl19/Ccl21a/Mup1/Astn2/Cntln/Sh3gl2/Slc24a2/Agbl4/Adam22/Pclo/Magi2/Dpp6/Kcnip4/Epha5/Grm8/Ptn/Dgki/Kel/Tcaf1/Cntnap2/Pde1c/Grid2/Lrrtm1/Lrrtm4/Clec4b1
+GO:0009058	GO:0009058	biosynthetic process	59	59/626	Pcsk1/Fgf10/Ang6/Ang4/Zfpm2/Angpt1/Tcp10a/St6gal2/Hacd1/Malrd1/Gad2/Tbpl2/Dbh/Col5a1/Kynu/Galnt13/Galnt5/Tbr1/Slc4a10/B3galt1/Trim44/Bdnf/Hao1/Sptlc3/Zfhx4/Bhlhe22/Cyp7b1/Dhx36/Ndst3/Ndst4/Ugt8a/Bank1/Pdha2/Bmpr1b/Sdr16c5/Fhl5/Ccl19/Ccl21a/Mup1/Zfp352/Elavl4/Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32/Hgf/Ldb2/G6pd2/Tecrl/Epha5/Galnt17/Foxp2/Dgki/Moxd2/Atoh1/Lmo3
+GO:0009893	GO:0009893	positive regulation of metabolic process	54	54/626	Slc24a4/Tcl1b2/Tcl1b1/Tcl1b5/Tcl1b3/Ctsj/Ctsq/Fgf10/Gm7324/Ang6/Ang4/Rims2/Zfpm2/Angpt1/Rps6ka2/Fndc1/Dbh/Tbr1/Zfp804a/Trim44/Bdnf/Slc24a3/Dhx36/Pdgfc/Pifo/Chil5/Chia1/Chil3/Chil4/Chil6/Bank1/Bmpr1b/Sdr16c5/Fhl5/Ccl19/Ccl21a/Mup1/Pde4b/Dab1/Elavl4/Agbl4/Hgf/Magi2/Ldb2/Rbm47/Epha5/Odam/Calcr/Pip/Atoh1/Reg1/Clec4n/Clec4e/Lmo3
+GO:0033036	GO:0033036	macromolecule localization	54	54/626	Pcsk1/Htr1a/Rab3c/Hcn1/Fgf10/Ang6/Ang4/Xkr6/Gpc5/Rims2/Angpt1/Dynlt1c/Fndc1/Pacrg/Malrd1/Gpr158/Fsip2/Ano3/Syndig1/Nlgn1/Pex5l/Dhx36/Slitrk3/Gria2/Glrb/Plppr4/Tram1l1/Ugt8a/Lrrc7/Cnr1/1700009N14Rik/Mup1/Astn2/Cntln/Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32/Adam22/Pclo/Magi2/Dpp6/Kcnip4/Epha5/Ptn/Tcaf1/Cntnap2/Pde1c/Grid2/Lrrtm1/Lrrtm4
+GO:0007267	GO:0007267	cell-cell signaling	52	52/626	Mctp1/Htr1a/Hcn1/Fgf10/2610042L04Rik/Pcdh17/Slitrk5/Gpc5/Nalcn/Fgf14/Rims2/Rspo2/Htr1f/Grik1/Sorcs3/Ntng2/Slc4a10/Lrrc4c/Fjx1/Bdnf/Nlgn1/Pex5l/Slitrk3/Gria2/Glrb/Kcna2/Ntng1/Plppr4/Cnr1/Grin3a/Mup1/Ptprd/Slc24a2/Grm3/Pclo/Cacna2d1/Hgf/Gabrg1/Gabra2/Gabra4/Gabrb1/Epha5/Grm8/Chrm2/Ptn/Dgki/Cntnap2/Pde1c/Grid2/Lrrtm1/Crbn/Grm7
+GO:0048584	GO:0048584	positive regulation of response to stimulus	52	52/626	Ctsj/Ctsq/Fgf10/Tlr11/Gpc5/C7/Rims2/Angpt1/Rspo2/Dynlt1c/Fpr3/Fpr-rs4/Fpr-rs3/H2-M11/H2-M9/H2-M1/H2-M2/Trim44/Bdnf/Nlgn1/Dhx36/Pdgfc/Bank1/Bmpr1b/Cnr1/Ccl19/Ccl21a/Mup1/Pde4b/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Hgf/Evc/Rbm47/Calcr/Ptn/Dgki/Reg3g/Cntn6/Crbn/Clec4n/Clec4d/Clec4e/Lmo3
+GO:0055085	GO:0055085	transmembrane transport	51	51/626	Slc24a4/Abcb5/Hcn1/Slc35f4/Nalcn/Fgf14/Kcnh8/Slc39a12/Kcnj3/Slc4a10/Scn2a/Scn1a/Scn9a/Scn7a/Slc5a12/Ano3/Ryr3/Slc24a3/Slc7a12/Nlgn1/Pex5l/Glrb/Kcnd3/Kcna3/Kcna2/Kcna10/Tram1l1/Slc26a7/Cngb3/Ccl19/Ccl21a/Slc24a2/Pde4b/Slc5a9/Cacna2d1/Dpp6/Kcnip4/G6pd2/Gabrg1/Gabra2/Gabra4/Gabrb1/Calcr/Kcnd2/Kel/Tcaf1/Slc25a26/Crbn/Slc6a11/Clec4b1/Clcn4
+GO:0050793	GO:0050793	regulation of developmental process	51	51/626	Ctla2a/Fgf10/Slitrk5/Adamts12/Rims2/Zfpm2/Rspo2/Chodl/Slc39a12/Col5a1/Olfm1/Ntng2/Arhgap15/Lrrc4c/Bdnf/Sema6d/Syndig1/Nlgn1/Fat4/Dhx36/Slitrk3/Ntng1/Unc5c/Bmpr1b/Lingo2/Tmem215/Ccl19/Grin3a/Brinp1/Ptprd/Dab1/Elavl4/Agbl4/Skint1/Sema3a/Hgf/G6pd2/Adgrl3/Plxna4/Ptn/Kel/Grid2/Atoh1/Tacstd2/Lrrtm1/Reg1/Reg3g/Lrrtm4/Cntn4/Lrrn1/Pira2
+GO:0007155	GO:0007155	cell adhesion	50	50/626	Edil3/Pcdh17/Pcdh20/Pcdh9/Itgbl1/Adamts12/Cdh9/Cdh10/Cdh12/Cdh18/Angpt1/Cadm2/Ncam2/Hacd1/Col5a1/Ntng2/Lrrc4c/Ptprt/Sirpb1a/Sirpb1b/Sirpb1c/Gm5150/Nlgn1/Fat4/Pcdh10/Slitrk3/Flg2/Ntng1/Negr1/Ccl19/Ccl21a/Astn2/Ptprd/Dab1/Skint1/Magi2/Pcdh7/Adgrl3/Epha5/Plxna4/Ptn/Cntnap2/Grid2/Tacstd2/Ctnna2/Fbln2/Cntn3/Chl1/Cntn6/Cntn4
+GO:0051240	GO:0051240	positive regulation of multicellular organismal process	47	47/626	Fgf10/Slitrk5/Rims2/Zfpm2/Chodl/Slc39a12/Dbh/Bdnf/Syndig1/Sirpb1a/Sirpb1b/Sirpb1c/Gm5150/Nlgn1/Pex5l/Dhx36/Slitrk3/Pdgfc/Chil5/Chia1/Chil3/Chil4/Chil6/Tacr3/Bmpr1b/Cnr1/Lingo2/Ccl19/Ccl21a/Ptprd/Pde4b/Skint1/Sema3a/Cacna2d1/Hgf/Rbm47/Adgrl3/Plxna4/Ptn/Cntnap2/Grid2/Lrrtm1/Lrrtm4/Lrrn1/Clec4n/Clec4d/Clec4e
+GO:0002682	GO:0002682	regulation of immune system process	46	46/626	Ctla2a/Fgf10/Tlr11/C7/Angpt1/Fpr3/Fpr-rs4/Fpr-rs3/H2-M11/H2-M9/H2-M1/H2-M2/Sirpb1a/Sirpb1b/Sirpb1c/Gm5150/Dhx36/Bank1/Cnr1/Ccl19/Ccl21a/Ptprd/Pde4b/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Rbm47/Ptn/Pip/Sval2/Sval1/Sval3/Sva/Reg3g/Clec4b2/Clec4n/Clec4d/Clec4e/Pira2
+GO:0065009	GO:0065009	regulation of molecular function	46	46/626	Slc24a4/Serpina3j/Serpina3k/Serpina3k/Serpina3m/Serpina3m/Tcl1b2/Tcl1b1/Tcl1b5/Tcl1b3/Ctsj/Ctsq/Hcn1/Fgf10/Ang6/Ang4/Fgf14/Angpt1/Dynlt1c/Arhgap15/Bdnf/Cst10/Ptprt/Nlgn1/Pdgfc/Pifo/Cnr1/Ccl19/Ccl21a/Pde4b/Dab1/Pclo/Cacna2d1/Hgf/Magi2/Ldb2/Epha5/Csn2/Odam/Calcr/Plxna4/Dgki/Tcaf1/Crbn/Mug1/Mug2
+GO:0006955	GO:0006955	immune response	43	43/626	Ctsj/Ctsq/Ang6/Tlr11/Ang4/C7/Angpt1/Fpr3/Fpr-rs4/Fpr-rs3/H2-M11/H2-M9/H2-M1/H2-M2/Kynu/Dhx36/Cnr1/Ccl27b/Ccl19/Ccl21a/Ptprd/Pde4b/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Rbm47/Reg2/Reg1/Reg3g/Clec4a4/Clec4b1/Clec4a2/Clec4b2/Clec4n/Clec4d/Clec4e
+GO:0007610	GO:0007610	behavior	42	42/626	Slc24a4/Htr1a/Hcn1/Pcdh17/Klhl1/Slitrk5/Fgf14/Oxr1/Grik1/Esp1/Sorcs3/Dbh/Tbr1/Slc4a10/Scn2a/Scn1a/Scn9a/Bdnf/Cyp7b1/Nlgn1/Glrb/Kcna2/Tacr3/Negr1/Cnr1/Mup1/Brinp1/Slc24a2/Dab1/Elavl4/Adam22/Adgrl3/Foxp2/Kcnd2/Ptn/Dgki/Cntnap2/Lrrtm1/Reg2/Chl1/Crbn/Grm7
+GO:0009719	GO:0009719	response to endogenous stimulus	42	42/626	Slc24a4/Serpina3k/Serpina3k/Serpina3m/Serpina3m/Htr1a/Hcn1/Fgf10/Ang6/Ang4/Adamts12/Angpt1/Htr1f/Adamtsl2/Bdnf/Cyp7b1/Fat4/Veph1/Fstl5/Gria2/Pdgfc/Kcnd3/Bmpr1b/Ccl19/Ccl21a/Pappa/Sh3gl2/Pde4b/Cacna2d1/Hgf/Magi2/Gabrb1/Epha5/Csn1s1/Calcr/Chrm2/Sva/Cntnap2/Reg2/Reg1/Reg3g/Lmo3
+GO:0048870	GO:0048870	cell motility	40	40/626	Mctp1/Fgf10/Ang6/Ang4/Stc1/Gpc5/Itgbl1/Spef2/Adamts12/Angpt1/Dbh/Col5a1/Ntng2/Fsip2/Sema6d/Ptprt/Cyp7b1/Pdgfc/Ntng1/Tacr3/Unc5c/Ccl19/Ccl21a/Astn2/Pde4b/Dab1/Sema3a/Hgf/Magi2/Ldb2/Cox7b2/Adgrl3/Cabs1/Plxna4/Ptn/Tcaf1/Atoh1/Tacstd2/Ctnna2/Chl1
+GO:0044281	GO:0044281	small molecule metabolic process	37	37/626	Acot10/St6gal2/Cyp2c67/Cyp2c68/Cyp2c40/Hacd1/Malrd1/Gad2/Dbh/Sardh/Kynu/Pde1a/Hao1/Sptlc3/Macrod2/Cyp7b1/Dpyd/Pdha2/Sdr16c5/Cnr1/Mup1/Aldoart1/Cyp2j12/Cyp2j7/Cyp2j11/Cyp2j8/Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32/G6pd2/Tecrl/Ugt2b37/Moxd2
+GO:0002684	GO:0002684	positive regulation of immune system process	36	36/626	Fgf10/Tlr11/C7/Fpr3/Fpr-rs4/Fpr-rs3/H2-M11/H2-M9/H2-M1/H2-M2/Sirpb1a/Sirpb1b/Sirpb1c/Gm5150/Dhx36/Cnr1/Ccl19/Ccl21a/Pde4b/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Rbm47/Ptn/Reg3g/Clec4b2/Clec4n/Clec4d/Clec4e
+GO:0009892	GO:0009892	negative regulation of metabolic process	36	36/626	Serpina3j/Serpina3k/Serpina3k/Serpina3m/Serpina3m/Ctla2a/2610042L04Rik/Gfra2/Zfpm2/Oxr1/Angpt1/Tcp10a/Celf2/Malrd1/Tbr1/Trim44/Slc24a3/Cst10/Ptprt/Bhlhe22/Dhx36/Bank1/Sdr16c5/Cnr1/Mup1/Sh3gl2/Elavl4/Hgf/Ldb2/G6pd2/Rbm47/Csn2/Calcr/Foxp2/Mug1/Mug2
+GO:0008219	GO:0008219	cell death	36	36/626	Ctsj/Ctsq/Fgf10/Xkr6/Zfpm2/Oxr1/Angpt1/Dynlt1c/Rps6ka2/Fndc1/Pacrg/Kcnh8/Dbh/Olfm1/Scn2a/Pde1a/Bdnf/Chia1/Unc5c/Bmpr1b/Cnr1/Tmem215/Ccl19/Ccl21a/Brinp1/Sema3a/Hgf/G6pd2/Calcr/Ptn/Pip/Grid2/Atoh1/Gm20594/Chl1/Grm7
+GO:0009056	GO:0009056	catabolic process	35	35/626	Ctsj/Ctsq/Ang4/Adamts12/Fbxl7/Lipi/Gad2/Hnmt/Dbh/Sardh/Kynu/Psmd14/Pde1a/Hao1/Dhx36/Sis/Tdpoz5/Chil5/Chia1/Chil3/Chil4/Chil6/Dpyd/Mmp16/Cnr1/Pappa/Aldoart1/Elavl4/Agbl4/Rbm47/Calcr/Mgam/Moxd2/Gm9008/Crbn
+GO:0023056	GO:0023056	positive regulation of signaling	35	35/626	Ctsj/Ctsq/Fgf10/Gpc5/Nalcn/Rims2/Angpt1/Rspo2/Grik1/Dynlt1c/Trim44/Bdnf/Nlgn1/Pex5l/Dhx36/Gria2/Pdgfc/Bank1/Bmpr1b/Ccl19/Ccl21a/Mup1/Slc24a2/Hgf/Evc/Rbm47/Calcr/Ptn/Dgki/Lrrtm1/Cntn6/Crbn/Clec4n/Clec4d/Lmo3
+GO:0051050	GO:0051050	positive regulation of transport	33	33/626	Pcsk1/Hcn1/Ang6/Ang4/Stc1/Fgf14/Rims2/Angpt1/Grik1/Malrd1/Sirpb1a/Sirpb1b/Sirpb1c/Gm5150/Nlgn1/Pex5l/Ccl19/Ccl21a/Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32/Pclo/Cacna2d1/Magi2/Dpp6/G6pd2/Calcr/Tcaf1/Clec4b1
+GO:0051094	GO:0051094	positive regulation of developmental process	32	32/626	Fgf10/Slitrk5/Rims2/Zfpm2/Chodl/Slc39a12/Bdnf/Syndig1/Nlgn1/Dhx36/Slitrk3/Unc5c/Bmpr1b/Lingo2/Ccl19/Brinp1/Ptprd/Dab1/Elavl4/Skint1/Sema3a/Hgf/Adgrl3/Plxna4/Ptn/Grid2/Atoh1/Tacstd2/Lrrtm1/Reg1/Lrrtm4/Lrrn1
+GO:0051707	GO:0051707	response to other organism	27	27/626	Ang6/Tlr11/Ang4/Kynu/Scn7a/Trim44/Macrod2/Naaladl2/Dhx36/Bank1/Cnr1/Ccl27b/Ccl19/Ccl21a/Pde4b/Agbl4/Rbm47/Reg2/Reg1/Reg3g/Clec4a4/Clec4b1/Clec4a2/Clec4b2/Clec4n/Clec4d/Clec4e
+GO:0009607	GO:0009607	response to biotic stimulus	27	27/626	Ang6/Tlr11/Ang4/Kynu/Scn7a/Trim44/Macrod2/Naaladl2/Dhx36/Bank1/Cnr1/Ccl27b/Ccl19/Ccl21a/Pde4b/Agbl4/Rbm47/Reg2/Reg1/Reg3g/Clec4a4/Clec4b1/Clec4a2/Clec4b2/Clec4n/Clec4d/Clec4e
+GO:0008283	GO:0008283	cell population proliferation	26	26/626	Fgf10/Ang6/Ang4/Stc1/Zfpm2/Angpt1/Rps6ka2/Dbh/Pde1a/Bdnf/Cyp7b1/Fat4/Pdgfc/Sdr16c5/Mmp16/Ccl19/Agbl4/Hgf/Magi2/Foxp2/Ptn/Cntnap2/Tacstd2/Reg2/Reg1/Reg3g
+GO:0022414	GO:0022414	reproductive process	25	25/626	Fgf10/Mroh2b/Spef2/Zfpm2/Angpt1/Rps6ka2/Pacrg/Esp1/Dbh/Fsip2/Cyp7b1/Dhx36/Gpr149/Glrb/Tacr3/Unc5c/Bmpr1b/Cnr1/Spaca1/Brinp1/Sema3a/Cox7b2/Cabs1/Ptn/Mug1
+GO:0023057	GO:0023057	negative regulation of signaling	25	25/626	Slc24a4/Hcn1/Fgf10/Pcdh17/Adamts12/Grik1/Sorcs3/Adamtsl2/Bdnf/Ptprt/Cyp7b1/Veph1/Bank1/Mup1/Ptprd/Slc24a2/Pde4b/Dab1/Hgf/Magi2/Dgki/Cntnap2/Pde1c/Grid2/Lmo3
+GO:0001816	GO:0001816	cytokine production	25	25/626	Angpt1/Dbh/Dhx36/Chil5/Chia1/Chil3/Chil4/Chil6/Bank1/Ccl19/Pde4b/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Hgf/Rbm47/Clec4n/Clec4e
+GO:0048585	GO:0048585	negative regulation of response to stimulus	25	25/626	Slc24a4/Ctla2a/Mctp1/Fgf10/Adamts12/Oxr1/Adamtsl2/Bdnf/Sema6d/Ptprt/Cyp7b1/Veph1/Bank1/Grin3a/Mup1/Ptprd/Pde4b/Dab1/Sema3a/Hgf/Magi2/Pde1c/Grid2/Ctnna2/Lmo3
+GO:0140352	GO:0140352	export from cell	23	23/626	Slc24a4/Pcsk1/Mctp1/Htr1a/Rab3c/Fgf10/Ang6/Ang4/Rims2/Malrd1/Bdnf/Nlgn1/Pex5l/Kcnd3/Kcna2/Cnr1/Mup1/Pclo/Epha5/Grm8/Dgki/Pde1c/Grm7
+GO:0051241	GO:0051241	negative regulation of multicellular organismal process	23	23/626	Stc1/Adamts12/Zfpm2/Angpt1/Rspo2/Bdnf/Sema6d/Gpr149/Bank1/Cnr1/Brinp1/Pde4b/Dab1/Sema3a/Hgf/G6pd2/Calcr/Ptn/Cntnap2/Atoh1/Tacstd2/Reg3g/Pira2
+GO:0040012	GO:0040012	regulation of locomotion	23	23/626	Mctp1/Fgf10/Stc1/Angpt1/Ntng2/Tbr1/Sema6d/Ptprt/Pdgfc/Ntng1/Tacr3/Unc5c/Ccl19/Ccl21a/Sema3a/Hgf/Magi2/Ldb2/Plxna4/Ptn/Tcaf1/Tacstd2/Ctnna2
+GO:0042330	GO:0042330	taxis	23	23/626	Fgf10/Angpt1/Epha6/Fpr3/Fpr-rs3/Tbr1/Bdnf/Sema6d/Cyp7b1/Unc5c/Bmpr1b/Ccl19/Ccl21a/Pde4b/Sema3a/Hgf/Epha5/Plxna4/Ptn/Atoh1/Chl1/Cntn6/Cntn4
+GO:0048878	GO:0048878	chemical homeostasis	22	22/626	Slc24a4/Stc1/C7/Slc39a12/Malrd1/Dbh/Slc4a10/Scn7a/Ryr3/Slc24a3/Cst10/Cyp7b1/Cnr1/Ccl19/Ccl21a/Mup1/Slc24a2/Epha5/Kel/Pde1c/Reg1/Clec4b1
+GO:0048589	GO:0048589	developmental growth	20	20/626	Fgf10/Stc1/Rims2/Zfpm2/Rspo2/Olfm1/Slc4a10/Bdnf/Sema6d/Cst10/Gpr149/Bmpr1b/Sh3gl2/Sema3a/Evc/G6pd2/Plxna4/Ptn/Cntnap2/Reg1
+GO:0048646	GO:0048646	anatomical structure formation involved in morphogenesis	20	20/626	Slc24a4/Fgf10/Ang6/Ang4/Zfpm2/Angpt1/Slc39a12/Nebl/Col5a1/Tbr1/Fjx1/Ugt8a/Spaca1/Tmem215/Hgf/Epha5/Thsd7a/Foxp2/Ptn/Grid2
+GO:0051093	GO:0051093	negative regulation of developmental process	20	20/626	Fgf10/Adamts12/Zfpm2/Rspo2/Col5a1/Bdnf/Sema6d/Nlgn1/Tmem215/Grin3a/Brinp1/Dab1/Sema3a/G6pd2/Ptn/Atoh1/Tacstd2/Reg3g/Cntn4/Pira2
+GO:0009628	GO:0009628	response to abiotic stimulus	20	20/626	Slc24a4/Ang6/Ang4/Nox3/Fndc1/Dbh/Slc4a10/Scn2a/Scn1a/Scn9a/Ano3/Dhx36/Col11a1/Tacr3/Pde4b/Foxp2/Kcnd2/Grm8/Ptn/Cntnap2
+GO:0002253	GO:0002253	activation of immune response	19	19/626	Tlr11/C7/Fpr3/Fpr-rs4/Fpr-rs3/Pde4b/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Reg3g/Clec4n/Clec4e
+GO:0003006	GO:0003006	developmental process involved in reproduction	18	18/626	Fgf10/Mroh2b/Spef2/Zfpm2/Angpt1/Rps6ka2/Pacrg/Fsip2/Cyp7b1/Dhx36/Gpr149/Unc5c/Bmpr1b/Spaca1/Sema3a/Cox7b2/Cabs1/Ptn
+GO:0019725	GO:0019725	cellular homeostasis	18	18/626	Slc24a4/Stc1/C7/Slc39a12/Slc4a10/Scn7a/Ryr3/Slc24a3/Cst10/Cnr1/Ccl19/Ccl21a/Mup1/Slc24a2/Epha5/Kel/Pde1c/Clec4b1
+GO:0032504	GO:0032504	multicellular organism reproduction	16	16/626	Mroh2b/Spef2/Rps6ka2/Pacrg/Esp1/Dbh/Fsip2/Dhx36/Gpr149/Bmpr1b/Cnr1/Spaca1/Brinp1/Cox7b2/Cabs1/Ptn
+GO:0030029	GO:0030029	actin filament-based process	16	16/626	Fgf10/Stc1/Tpm3-rs7/Nebl/Myo3a/Scn1a/Ccl21a/Frmd3/Sh3gl2/Pde4b/Cacna2d1/Epha5/Odam/Thsd7a/Tacstd2/Ctnna2
+GO:0019953	GO:0019953	sexual reproduction	13	13/626	Mroh2b/Spef2/Rps6ka2/Pacrg/Fsip2/Dhx36/Gpr149/Glrb/Bmpr1b/Spaca1/Cox7b2/Cabs1/Ptn
+GO:0045321	GO:0045321	leukocyte activation	13	13/626	Ctla2a/Fgf10/Sirpb1a/Sirpb1b/Sirpb1c/Gm5150/Bank1/Cnr1/Ccl19/Ccl21a/Skint1/Clec4d/Clec4e
+GO:0001775	GO:0001775	cell activation	13	13/626	Ctla2a/Fgf10/Sirpb1a/Sirpb1b/Sirpb1c/Gm5150/Bank1/Cnr1/Ccl19/Ccl21a/Skint1/Clec4d/Clec4e
+GO:0048609	GO:0048609	multicellular organismal reproductive process	13	13/626	Mroh2b/Spef2/Rps6ka2/Pacrg/Fsip2/Dhx36/Gpr149/Bmpr1b/Cnr1/Spaca1/Cox7b2/Cabs1/Ptn
+GO:0002252	GO:0002252	immune effector process	11	11/626	C7/Angpt1/H2-M11/H2-M9/H2-M1/H2-M2/Dbh/Dhx36/Ccl19/Clec4d/Clec4e
+GO:0001503	GO:0001503	ossification	11	11/626	Stc1/Adamts12/Rspo2/Slc24a3/Cst10/Fat4/Dhx36/Bmpr1b/Mmp16/Calcr/Ptn
+GO:0051051	GO:0051051	negative regulation of transport	11	11/626	Mctp1/Htr1a/Stc1/Angpt1/Cnr1/Mup1/Kel/Pde1c/Lrrtm1/Crbn/Grm7
+GO:0051640	GO:0051640	organelle localization	11	11/626	Rab3c/Fgf10/Pcdh17/Rims2/Syndig1/Nlgn1/1700009N14Rik/Dab1/Agbl4/Pclo/Magi2
+GO:0007017	GO:0007017	microtubule-based process	10	10/626	Htr1a/Fgf10/Spef2/Tcp10a/Slc39a12/Fsip2/Tacr3/Cntln/Agbl4/Cabs1
+GO:0016049	GO:0016049	cell growth	10	10/626	Rims2/Olfm1/Bdnf/Sema6d/Cst10/Sh3gl2/Sema3a/G6pd2/Plxna4/Reg1
+GO:0048871	GO:0048871	multicellular organismal-level homeostasis	10	10/626	Angpt1/Nox3/Dbh/Pdgfc/Cnr1/Mup1/Sh3gl2/Pde4b/Ldb2/G6pd2
+GO:0021700	GO:0021700	developmental maturation	10	10/626	Slc24a4/Adamts12/Rps6ka2/Cst10/Nlgn1/Fat4/Ccl19/Ccl21a/G6pd2/Cntnap2
+GO:0040013	GO:0040013	negative regulation of locomotion	10	10/626	Mctp1/Stc1/Sema6d/Ptprt/Ccl21a/Sema3a/Magi2/Ptn/Tcaf1/Tacstd2
+GO:0040017	GO:0040017	positive regulation of locomotion	10	10/626	Fgf10/Angpt1/Sema6d/Pdgfc/Tacr3/Ccl19/Ccl21a/Sema3a/Hgf/Ptn
+GO:0051606	GO:0051606	detection of stimulus	10	10/626	Slc24a4/Nox3/Scn1a/Scn9a/Ano3/Col11a1/Grm8/Pip/Clec4n/Tas2r113
+GO:0033555	GO:0033555	multicellular organismal response to stress	9	9/626	Htr1a/Hcn1/Grik1/Dbh/Scn9a/Bdnf/Brinp1/Cntnap2/Grm7
+GO:0040008	GO:0040008	regulation of growth	9	9/626	Rims2/Zfpm2/Olfm1/Bdnf/Sema6d/Sema3a/G6pd2/Plxna4/Reg1
+GO:0007623	GO:0007623	circadian rhythm	9	9/626	Scn9a/Bdnf/Cyp7b1/Nlgn1/Kcna2/Dpyd/Mup1/Kcnd2/Cntnap2
+GO:0019882	GO:0019882	antigen processing and presentation	8	8/626	Rab3c/H2-M11/H2-M9/H2-M1/H2-M2/Ccl19/Ccl21a/Clec4b2
+GO:0007049	GO:0007049	cell cycle	8	8/626	Fgf10/Fbxl7/Rps6ka2/Tcp10a/Hacd1/Brinp1/Cntln/Tmprss11a
+GO:0022412	GO:0022412	cellular process involved in reproduction in multicellular organism	8	8/626	Spef2/Rps6ka2/Pacrg/Fsip2/Gpr149/Bmpr1b/Spaca1/Ptn
+GO:0070085	GO:0070085	glycosylation	7	7/626	St6gal2/Galnt13/Galnt5/Slc4a10/B3galt1/Galnt17/Grm7
+GO:0001906	GO:0001906	cell killing	7	7/626	H2-M11/H2-M9/H2-M1/H2-M2/Ccl27b/Ccl19/Ccl21a
+GO:0007272	GO:0007272	ensheathment of neurons	7	7/626	Ugt8a/Adam22/Hgf/Ptn/Kel/Cntnap2/Reg2
+GO:0008037	GO:0008037	cell recognition	7	7/626	Bdnf/Cnr1/Ccl19/Ccl21a/Sema3a/Cntnap2/Cntn6
+GO:2000241	GO:2000241	regulation of reproductive process	7	7/626	Zfpm2/Rps6ka2/Gpr149/Tacr3/Unc5c/Cnr1/Sema3a
+GO:0001763	GO:0001763	morphogenesis of a branching structure	7	7/626	Fgf10/Angpt1/Rspo2/Fat4/Sema3a/Hgf/Tacstd2
+GO:0007389	GO:0007389	pattern specification process	7	7/626	Fgf10/Stc1/Tbr1/Bhlhe22/Pifo/Bmpr1b/Sema3a
+GO:0035265	GO:0035265	organ growth	7	7/626	Fgf10/Stc1/Zfpm2/Rspo2/Cst10/Evc/G6pd2
+GO:1905954	GO:1905954	positive regulation of lipid localization	7	7/626	Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32
+GO:0050900	GO:0050900	leukocyte migration	6	6/626	Dbh/Cyp7b1/Ccl19/Ccl21a/Pde4b/Ptn
+GO:0022402	GO:0022402	cell cycle process	6	6/626	Fgf10/Fbxl7/Rps6ka2/Tcp10a/Hacd1/Cntln
+GO:0002683	GO:0002683	negative regulation of immune system process	5	5/626	Angpt1/Bank1/Cnr1/Ccl21a/Pira2
+GO:0042445	GO:0042445	hormone metabolic process	5	5/626	Pcsk1/Pcsk2/Bmpr1b/Sdr16c5/Ugt2b37
+GO:0097722	GO:0097722	sperm motility	5	5/626	Spef2/Fsip2/Tacr3/Cox7b2/Cabs1
+GO:0002532	GO:0002532	production of molecular mediator involved in inflammatory response	5	5/626	Chil5/Chia1/Chil3/Chil4/Chil6
+GO:0090130	GO:0090130	tissue migration	5	5/626	Fgf10/Stc1/Angpt1/Sema3a/Tacstd2
+GO:0098900	GO:0098900	regulation of action potential	5	5/626	Hcn1/Scn9a/Cnr1/Cacna2d1/Cntnap2
+GO:0031503	GO:0031503	protein-containing complex localization	5	5/626	Nlgn1/Lrrc7/1700009N14Rik/Adam22/Magi2
+GO:0051235	GO:0051235	maintenance of location	5	5/626	Pex5l/Ccl19/Ccl21a/Mup1/Clec4b1
+GO:0140029	GO:0140029	exocytic process	4	4/626	Rab3c/Rims2/Nlgn1/Pclo
+GO:0019098	GO:0019098	reproductive behavior	4	4/626	Esp1/Dbh/Cnr1/Brinp1
+GO:2000243	GO:2000243	positive regulation of reproductive process	4	4/626	Zfpm2/Tacr3/Unc5c/Sema3a
+GO:0007586	GO:0007586	digestion	4	4/626	Fgf10/Cyp7b1/Slc26a7/Prss2
+GO:0009791	GO:0009791	post-embryonic development	4	4/626	Slc4a10/Scn9a/Grxcr1/Foxp2
+GO:0048532	GO:0048532	anatomical structure arrangement	4	4/626	Kcna2/Dab1/Sema3a/Plxna4
+GO:0045927	GO:0045927	positive regulation of growth	4	4/626	Rims2/Zfpm2/Bdnf/Reg1
+GO:0045759	GO:0045759	negative regulation of action potential	4	4/626	Hcn1/Scn9a/Cnr1/Cntnap2
+GO:0007163	GO:0007163	establishment or maintenance of cell polarity	3	3/626	Fgf10/Ccl19/Ccl21a
+GO:0051301	GO:0051301	cell division	3	3/626	Fbxl7/Pdgfc/Ptn
+GO:0051651	GO:0051651	maintenance of location in cell	3	3/626	Ccl19/Ccl21a/Clec4b1
+GO:2000242	GO:2000242	negative regulation of reproductive process	3	3/626	Zfpm2/Rps6ka2/Gpr149
+GO:0019827	GO:0019827	stem cell population maintenance	3	3/626	Fgf10/Ldb2/Ptn
+GO:0022404	GO:0022404	molting cycle process	3	3/626	Fgf10/Ldb2/Lrig1
+GO:0042303	GO:0042303	molting cycle	3	3/626	Fgf10/Ldb2/Lrig1
+GO:0048771	GO:0048771	tissue remodeling	3	3/626	Fgf10/Dbh/Ptn
+GO:0098727	GO:0098727	maintenance of cell number	3	3/626	Fgf10/Ldb2/Ptn
+GO:0045926	GO:0045926	negative regulation of growth	3	3/626	Sema6d/Sema3a/G6pd2
+GO:0031640	GO:0031640	killing of cells of another organism	3	3/626	Ccl27b/Ccl19/Ccl21a
+GO:0140975	GO:0140975	disruption of cellular component of another organism	3	3/626	Reg2/Reg1/Reg3g
+GO:0042698	GO:0042698	ovulation cycle	3	3/626	Gpr149/Bmpr1b/Ptn
+GO:0002262	GO:0002262	myeloid cell homeostasis	2	2/626	Pde4b/G6pd2
+GO:0002440	GO:0002440	production of molecular mediator of immune response	2	2/626	Angpt1/Dhx36
+GO:0002520	GO:0002520	immune system development	2	2/626	Fgf10/Ccl21a
+GO:0031294	GO:0031294	lymphocyte costimulation	2	2/626	Ccl19/Ccl21a
+GO:0032259	GO:0032259	methylation	2	2/626	Hnmt/Mettl15
+GO:0032963	GO:0032963	collagen metabolic process	2	2/626	Col5a1/Mmp16
+GO:1990845	GO:1990845	adaptive thermogenesis	2	2/626	Dbh/Pdgfc
+GO:0006903	GO:0006903	vesicle targeting	2	2/626	Nlgn1/Pclo
+GO:0022406	GO:0022406	membrane docking	2	2/626	Rab3c/Rims2
+GO:0097194	GO:0097194	execution phase of apoptosis	2	2/626	Xkr6/Gm20594
+GO:0098743	GO:0098743	cell aggregation	2	2/626	Col11a1/Bmpr1b
+GO:0022602	GO:0022602	ovulation cycle process	2	2/626	Gpr149/Bmpr1b
+GO:0044703	GO:0044703	multi-organism reproductive process	2	2/626	Ptn/Mug1
+GO:0007585	GO:0007585	respiratory gaseous exchange by respiratory system	2	2/626	Spef2/Nlgn1
+GO:0035264	GO:0035264	multicellular organism growth	2	2/626	Slc4a10/Cntnap2
+GO:0044706	GO:0044706	multi-multicellular organism process	2	2/626	Ptn/Mug1
+GO:0060384	GO:0060384	innervation	2	2/626	Sema3a/Lrig1
+GO:0044403	GO:0044403	biological process involved in symbiotic interaction	2	2/626	Dynlt1c/Tmprss11a
+GO:0042752	GO:0042752	regulation of circadian rhythm	2	2/626	Nlgn1/Kcna2
+GO:0035176	GO:0035176	social behavior	2	2/626	Brinp1/Cntnap2
+GO:0001776	GO:0001776	leukocyte homeostasis	1	1/626	Pde4b
+GO:0045058	GO:0045058	T cell selection	1	1/626	Skint1
+GO:0045103	GO:0045103	intermediate filament-based process	1	1/626	Flg
+GO:0019058	GO:0019058	viral life cycle	1	1/626	Tmprss11a
+GO:0050792	GO:0050792	regulation of viral process	1	1/626	Dynlt1c
+GO:0007340	GO:0007340	acrosome reaction	1	1/626	Glrb
+GO:0007566	GO:0007566	embryo implantation	1	1/626	Mug1
+GO:0009566	GO:0009566	fertilization	1	1/626	Glrb
+GO:0051321	GO:0051321	meiotic cell cycle	1	1/626	Rps6ka2
+GO:1903046	GO:1903046	meiotic cell cycle process	1	1/626	Rps6ka2
+GO:0002021	GO:0002021	response to dietary excess	1	1/626	Cntnap2
+GO:0030431	GO:0030431	sleep	1	1/626	Kcna2
+GO:0032941	GO:0032941	secretion by tissue	1	1/626	Fgf10
+GO:0007568	GO:0007568	aging	1	1/626	Cnr1
+GO:0031128	GO:0031128	developmental induction	1	1/626	Fgf10
+GO:0031987	GO:0031987	locomotion involved in locomotory behavior	1	1/626	Adgrl3
+GO:0060206	GO:0060206	estrous cycle phase	1	1/626	Gpr149
+GO:0042753	GO:0042753	positive regulation of circadian rhythm	1	1/626	Nlgn1
+GO:0045760	GO:0045760	positive regulation of action potential	1	1/626	Cntnap2
+GO:1900454	GO:1900454	positive regulation of long-term synaptic depression	1	1/626	Grid2
+GO:1902632	GO:1902632	positive regulation of membrane hyperpolarization	1	1/626	Hcn1
+GO:1900272	GO:1900272	negative regulation of long-term synaptic potentiation	1	1/626	Ptn
+GO:1905953	GO:1905953	negative regulation of lipid localization	1	1/626	Mup1
+GO:0060306	GO:0060306	regulation of membrane repolarization	1	1/626	Cacna2d1
+GO:1902630	GO:1902630	regulation of membrane hyperpolarization	1	1/626	Hcn1
+GO:0043500	GO:0043500	muscle adaptation	1	1/626	G6pd2
+GO:0006885	GO:0006885	regulation of pH	1	1/626	Slc4a10
+GO:0019954	GO:0019954	asexual reproduction	0	0/626	
+GO:0032505	GO:0032505	reproduction of a single-celled organism	0	0/626	
+GO:0075325	GO:0075325	spore dispersal	0	0/626	
+GO:1990277	GO:1990277	parasexual reproduction with cellular fusion	0	0/626	
+GO:0002200	GO:0002200	somatic diversification of immune receptors	0	0/626	
+GO:0002339	GO:0002339	B cell selection	0	0/626	
+GO:0002404	GO:0002404	antigen sampling in mucosal-associated lymphoid tissue	0	0/626	
+GO:0002507	GO:0002507	tolerance induction	0	0/626	
+GO:0035172	GO:0035172	hemocyte proliferation	0	0/626	
+GO:0042386	GO:0042386	hemocyte differentiation	0	0/626	
+GO:0090713	GO:0090713	immunological memory process	0	0/626	
+GO:0006116	GO:0006116	NADH oxidation	0	0/626	
+GO:0006735	GO:0006735	NADH regeneration	0	0/626	
+GO:0016999	GO:0016999	antibiotic metabolic process	0	0/626	
+GO:0018933	GO:0018933	nicotine metabolic process	0	0/626	
+GO:0019748	GO:0019748	secondary metabolic process	0	0/626	
+GO:0042440	GO:0042440	pigment metabolic process	0	0/626	
+GO:0045730	GO:0045730	respiratory burst	0	0/626	
+GO:0051189	GO:0051189	prosthetic group metabolic process	0	0/626	
+GO:0061984	GO:0061984	catabolite repression	0	0/626	
+GO:0070988	GO:0070988	demethylation	0	0/626	
+GO:0140651	GO:0140651	futile creatine cycle	0	0/626	
+GO:1901275	GO:1901275	tartrate metabolic process	0	0/626	
+GO:1901286	GO:1901286	iron-sulfur-molybdenum cofactor metabolic process	0	0/626	
+GO:1901764	GO:1901764	phosphinothricin metabolic process	0	0/626	
+GO:1901902	GO:1901902	tyrocidine metabolic process	0	0/626	
+GO:1902421	GO:1902421	hydrogen metabolic process	0	0/626	
+GO:0000920	GO:0000920	septum digestion after cytokinesis	0	0/626	
+GO:0006276	GO:0006276	plasmid maintenance	0	0/626	
+GO:0006457	GO:0006457	protein folding	0	0/626	
+GO:0006949	GO:0006949	syncytium formation	0	0/626	
+GO:0008207	GO:0008207	C21-steroid hormone metabolic process	0	0/626	
+GO:0008212	GO:0008212	mineralocorticoid metabolic process	0	0/626	
+GO:0009292	GO:0009292	horizontal gene transfer	0	0/626	
+GO:0010118	GO:0010118	stomatal movement	0	0/626	
+GO:0010496	GO:0010496	intercellular transport	0	0/626	
+GO:0016037	GO:0016037	light absorption	0	0/626	
+GO:0019835	GO:0019835	cytolysis	0	0/626	
+GO:0032196	GO:0032196	transposition	0	0/626	
+GO:0033059	GO:0033059	cellular pigmentation	0	0/626	
+GO:0034337	GO:0034337	RNA folding	0	0/626	
+GO:0035212	GO:0035212	cell competition in a multicellular organism	0	0/626	
+GO:0036166	GO:0036166	phenotypic switching	0	0/626	
+GO:0043335	GO:0043335	protein unfolding	0	0/626	
+GO:0044068	GO:0044068	modulation by symbiont of host cellular process	0	0/626	
+GO:0044663	GO:0044663	establishment or maintenance of cell type involved in phenotypic switching	0	0/626	
+GO:0051674	GO:0051674	localization of cell	0	0/626	
+GO:0060352	GO:0060352	cell adhesion molecule production	0	0/626	
+GO:0061842	GO:0061842	microtubule organizing center localization	0	0/626	
+GO:0061919	GO:0061919	process utilizing autophagic mechanism	0	0/626	
+GO:0071554	GO:0071554	cell wall organization or biogenesis	0	0/626	
+GO:0090618	GO:0090618	DNA clamp unloading	0	0/626	
+GO:0097528	GO:0097528	execution phase of necroptosis	0	0/626	
+GO:0120312	GO:0120312	ciliary basal body segregation	0	0/626	
+GO:0140253	GO:0140253	cell-cell fusion	0	0/626	
+GO:1990748	GO:1990748	cellular detoxification	0	0/626	
+GO:0019042	GO:0019042	viral latency	0	0/626	
+GO:0019043	GO:0019043	establishment of viral latency	0	0/626	
+GO:0019044	GO:0019044	maintenance of viral latency	0	0/626	
+GO:0019045	GO:0019045	latent virus replication	0	0/626	
+GO:0019046	GO:0019046	release from viral latency	0	0/626	
+GO:0019048	GO:0019048	modulation by virus of host process	0	0/626	
+GO:0019061	GO:0019061	uncoating of virus	0	0/626	
+GO:0019068	GO:0019068	virion assembly	0	0/626	
+GO:0019069	GO:0019069	viral capsid assembly	0	0/626	
+GO:0019070	GO:0019070	viral genome maturation	0	0/626	
+GO:0019072	GO:0019072	viral genome packaging	0	0/626	
+GO:0019075	GO:0019075	virus maturation	0	0/626	
+GO:0019076	GO:0019076	viral release from host cell	0	0/626	
+GO:0019079	GO:0019079	viral genome replication	0	0/626	
+GO:0019080	GO:0019080	viral gene expression	0	0/626	
+GO:0019081	GO:0019081	viral translation	0	0/626	
+GO:0019082	GO:0019082	viral protein processing	0	0/626	
+GO:0019083	GO:0019083	viral transcription	0	0/626	
+GO:0039663	GO:0039663	membrane fusion involved in viral entry into host cell	0	0/626	
+GO:0039664	GO:0039664	lysis of host organelle involved in viral entry into host cell	0	0/626	
+GO:0039665	GO:0039665	permeabilization of host organelle membrane involved in viral entry into host cell	0	0/626	
+GO:0039700	GO:0039700	fusion of viral membrane with host outer nuclear membrane	0	0/626	
+GO:0039707	GO:0039707	pore formation by virus in membrane of host cell	0	0/626	
+GO:0044793	GO:0044793	negative regulation by host of viral process	0	0/626	
+GO:0044794	GO:0044794	positive regulation by host of viral process	0	0/626	
+GO:0044826	GO:0044826	viral genome integration into host DNA	0	0/626	
+GO:0046745	GO:0046745	viral capsid secondary envelopment	0	0/626	
+GO:0046755	GO:0046755	viral budding	0	0/626	
+GO:0046786	GO:0046786	viral replication complex formation and maintenance	0	0/626	
+GO:0046787	GO:0046787	viral DNA repair	0	0/626	
+GO:0046794	GO:0046794	transport of virus	0	0/626	
+GO:0046799	GO:0046799	recruitment of helicase-primase complex to DNA lesions	0	0/626	
+GO:0046807	GO:0046807	viral scaffold assembly and maintenance	0	0/626	
+GO:0046815	GO:0046815	genome retention in viral capsid	0	0/626	
+GO:0048524	GO:0048524	positive regulation of viral process	0	0/626	
+GO:0048525	GO:0048525	negative regulation of viral process	0	0/626	
+GO:0075522	GO:0075522	IRES-dependent viral translational initiation	0	0/626	
+GO:0075523	GO:0075523	viral translational frameshifting	0	0/626	
+GO:0075524	GO:0075524	ribosomal skipping	0	0/626	
+GO:0075525	GO:0075525	viral translational termination-reinitiation	0	0/626	
+GO:0075526	GO:0075526	cap snatching	0	0/626	
+GO:0075527	GO:0075527	viral RNA editing	0	0/626	
+GO:0098003	GO:0098003	viral tail assembly	0	0/626	
+GO:0098004	GO:0098004	virus tail fiber assembly	0	0/626	
+GO:0098005	GO:0098005	viral head-tail joining	0	0/626	
+GO:0098045	GO:0098045	virus baseplate assembly	0	0/626	
+GO:0098669	GO:0098669	superinfection exclusion	0	0/626	
+GO:0098677	GO:0098677	virion maturation	0	0/626	
+GO:0098678	GO:0098678	viral tropism switching	0	0/626	
+GO:0098689	GO:0098689	latency-replication decision	0	0/626	
+GO:0099009	GO:0099009	viral genome circularization	0	0/626	
+GO:0000742	GO:0000742	karyogamy involved in conjugation with cellular fusion	0	0/626	
+GO:0000743	GO:0000743	nuclear migration involved in conjugation with cellular fusion	0	0/626	
+GO:0000744	GO:0000744	karyogamy involved in conjugation with mutual genetic exchange	0	0/626	
+GO:0000745	GO:0000745	nuclear migration involved in conjugation with mutual genetic exchange	0	0/626	
+GO:0000752	GO:0000752	agglutination involved in conjugation with cellular fusion	0	0/626	
+GO:0000761	GO:0000761	conjugant formation	0	0/626	
+GO:0002077	GO:0002077	acrosome matrix dispersal	0	0/626	
+GO:0007117	GO:0007117	budding cell bud growth	0	0/626	
+GO:0007300	GO:0007300	ovarian nurse cell to oocyte transport	0	0/626	
+GO:0007316	GO:0007316	pole plasm RNA localization	0	0/626	
+GO:0007343	GO:0007343	egg activation	0	0/626	
+GO:0007344	GO:0007344	pronuclear fusion	0	0/626	
+GO:0007534	GO:0007534	gene conversion at mating-type locus	0	0/626	
+GO:0007543	GO:0007543	sex determination, somatic-gonadal interaction	0	0/626	
+GO:0009846	GO:0009846	pollen germination	0	0/626	
+GO:0009856	GO:0009856	pollination	0	0/626	
+GO:0009859	GO:0009859	pollen hydration	0	0/626	
+GO:0009865	GO:0009865	pollen tube adhesion	0	0/626	
+GO:0009875	GO:0009875	pollen-pistil interaction	0	0/626	
+GO:0009876	GO:0009876	pollen adhesion	0	0/626	
+GO:0010069	GO:0010069	zygote asymmetric cytokinesis in embryo sac	0	0/626	
+GO:0010183	GO:0010183	pollen tube guidance	0	0/626	
+GO:0010344	GO:0010344	seed oilbody biogenesis	0	0/626	
+GO:0010483	GO:0010483	pollen tube reception	0	0/626	
+GO:0010588	GO:0010588	cotyledon vascular tissue pattern formation	0	0/626	
+GO:0018985	GO:0018985	pronuclear envelope synthesis	0	0/626	
+GO:0022413	GO:0022413	reproductive process in single-celled organism	0	0/626	
+GO:0030709	GO:0030709	border follicle cell delamination	0	0/626	
+GO:0032219	GO:0032219	cell wall macromolecule catabolic process involved in cytogamy	0	0/626	
+GO:0032220	GO:0032220	plasma membrane fusion involved in cytogamy	0	0/626	
+GO:0035036	GO:0035036	sperm-egg recognition	0	0/626	
+GO:0035037	GO:0035037	sperm entry	0	0/626	
+GO:0035038	GO:0035038	female pronucleus assembly	0	0/626	
+GO:0035039	GO:0035039	male pronucleus assembly	0	0/626	
+GO:0035040	GO:0035040	sperm nuclear envelope removal	0	0/626	
+GO:0035041	GO:0035041	sperm DNA decondensation	0	0/626	
+GO:0035044	GO:0035044	sperm aster formation	0	0/626	
+GO:0035046	GO:0035046	pronuclear migration	0	0/626	
+GO:0035471	GO:0035471	luteinizing hormone signaling pathway involved in ovarian follicle development	0	0/626	
+GO:0042628	GO:0042628	mating plug formation	0	0/626	
+GO:0043093	GO:0043093	FtsZ-dependent cytokinesis	0	0/626	
+GO:0045729	GO:0045729	respiratory burst at fertilization	0	0/626	
+GO:0046595	GO:0046595	establishment of pole plasm mRNA localization	0	0/626	
+GO:0048359	GO:0048359	mucilage metabolic process involved in seed coat development	0	0/626	
+GO:0048497	GO:0048497	maintenance of floral organ identity	0	0/626	
+GO:0048573	GO:0048573	photoperiodism, flowering	0	0/626	
+GO:0051037	GO:0051037	regulation of transcription involved in meiotic cell cycle	0	0/626	
+GO:0051663	GO:0051663	oocyte nucleus localization involved in oocyte dorsal/ventral axis specification	0	0/626	
+GO:0060011	GO:0060011	Sertoli cell proliferation	0	0/626	
+GO:0060321	GO:0060321	acceptance of pollen	0	0/626	
+GO:0060466	GO:0060466	activation of meiosis involved in egg activation	0	0/626	
+GO:0060468	GO:0060468	prevention of polyspermy	0	0/626	
+GO:0060470	GO:0060470	positive regulation of cytosolic calcium ion concentration involved in egg activation	0	0/626	
+GO:0060471	GO:0060471	cortical granule exocytosis	0	0/626	
+GO:0060474	GO:0060474	positive regulation of flagellated sperm motility involved in capacitation	0	0/626	
+GO:0060475	GO:0060475	positive regulation of actin filament polymerization involved in acrosome reaction	0	0/626	
+GO:0060476	GO:0060476	protein localization involved in acrosome reaction	0	0/626	
+GO:0060478	GO:0060478	acrosomal vesicle exocytosis	0	0/626	
+GO:0060518	GO:0060518	cell migration involved in prostatic bud elongation	0	0/626	
+GO:0060519	GO:0060519	cell adhesion involved in prostatic bud elongation	0	0/626	
+GO:0060738	GO:0060738	epithelial-mesenchymal signaling involved in prostate gland development	0	0/626	
+GO:0060739	GO:0060739	mesenchymal-epithelial cell signaling involved in prostate gland development	0	0/626	
+GO:0060767	GO:0060767	epithelial cell proliferation involved in prostate gland development	0	0/626	
+GO:0060781	GO:0060781	mesenchymal cell proliferation involved in prostate gland development	0	0/626	
+GO:0060783	GO:0060783	mesenchymal smoothened signaling pathway involved in prostate gland development	0	0/626	
+GO:0060858	GO:0060858	vesicle-mediated transport involved in floral organ abscission	0	0/626	
+GO:0060869	GO:0060869	transmembrane receptor protein serine/threonine kinase signaling pathway involved in floral organ abscission	0	0/626	
+GO:0060870	GO:0060870	cell wall disassembly involved in floral organ abscission	0	0/626	
+GO:0061450	GO:0061450	trophoblast cell migration	0	0/626	
+GO:0061883	GO:0061883	clathrin-dependent endocytosis involved in vitellogenesis	0	0/626	
+GO:0061948	GO:0061948	premature acrosome loss	0	0/626	
+GO:0061955	GO:0061955	positive regulation of actin filament depolymerization involved in acrosome reaction	0	0/626	
+GO:0070871	GO:0070871	cell wall organization involved in conjugation with cellular fusion	0	0/626	
+GO:0071171	GO:0071171	site-specific DNA replication termination at RTS1 barrier	0	0/626	
+GO:0071507	GO:0071507	pheromone response MAPK cascade	0	0/626	
+GO:0071835	GO:0071835	mating pheromone secretion involved in regulation of conjugation with cellular fusion	0	0/626	
+GO:0080112	GO:0080112	seed growth	0	0/626	
+GO:0090220	GO:0090220	chromosome localization to nuclear envelope involved in homologous chromosome segregation	0	0/626	
+GO:0110134	GO:0110134	meiotic drive	0	0/626	
+GO:0140547	GO:0140547	acquisition of seed longevity	0	0/626	
+GO:1905261	GO:1905261	regulation of meiotic DNA double-strand break formation involved in reciprocal meiotic recombination	0	0/626	
+GO:1990109	GO:1990109	rejection of pollen from other species	0	0/626	
+GO:0021807	GO:0021807	motogenic signaling initiating cell movement in cerebral cortex	0	0/626	
+GO:0021837	GO:0021837	motogenic signaling involved in postnatal olfactory bulb interneuron migration	0	0/626	
+GO:0021838	GO:0021838	motogenic signaling involved in interneuron migration from the subpallium to the cortex	0	0/626	
+GO:0035426	GO:0035426	extracellular matrix-cell signaling	0	0/626	
+GO:0003053	GO:0003053	circadian regulation of heart rate	0	0/626	
+GO:0008340	GO:0008340	determination of adult lifespan	0	0/626	
+GO:0009561	GO:0009561	megagametogenesis	0	0/626	
+GO:0009845	GO:0009845	seed germination	0	0/626	
+GO:0010022	GO:0010022	meristem determinacy	0	0/626	
+GO:0010073	GO:0010073	meristem maintenance	0	0/626	
+GO:0010162	GO:0010162	seed dormancy process	0	0/626	
+GO:0016203	GO:0016203	muscle attachment	0	0/626	
+GO:0022004	GO:0022004	midbrain-hindbrain boundary maturation during brain development	0	0/626	
+GO:0022005	GO:0022005	midbrain-hindbrain boundary maturation during neural plate development	0	0/626	
+GO:0022608	GO:0022608	multicellular organism adhesion	0	0/626	
+GO:0030588	GO:0030588	pseudocleavage	0	0/626	
+GO:0031424	GO:0031424	keratinization	0	0/626	
+GO:0032898	GO:0032898	neurotrophin production	0	0/626	
+GO:0034381	GO:0034381	plasma lipoprotein particle clearance	0	0/626	
+GO:0035073	GO:0035073	pupariation	0	0/626	
+GO:0035074	GO:0035074	pupation	0	0/626	
+GO:0035314	GO:0035314	scab formation	0	0/626	
+GO:0035889	GO:0035889	otolith tethering	0	0/626	
+GO:0043480	GO:0043480	pigment accumulation in tissues	0	0/626	
+GO:0045056	GO:0045056	transcytosis	0	0/626	
+GO:0045494	GO:0045494	photoreceptor cell maintenance	0	0/626	
+GO:0048647	GO:0048647	polyphenic determination	0	0/626	
+GO:0050817	GO:0050817	coagulation	0	0/626	
+GO:0050879	GO:0050879	multicellular organismal movement	0	0/626	
+GO:0055046	GO:0055046	microgametogenesis	0	0/626	
+GO:0055127	GO:0055127	vibrational conductance of sound to the inner ear	0	0/626	
+GO:0071684	GO:0071684	organism emergence from protective structure	0	0/626	
+GO:0071827	GO:0071827	plasma lipoprotein particle organization	0	0/626	
+GO:0080189	GO:0080189	primary growth	0	0/626	
+GO:0090664	GO:0090664	response to high population density	0	0/626	
+GO:0097207	GO:0097207	bud dormancy process	0	0/626	
+GO:0097242	GO:0097242	amyloid-beta clearance	0	0/626	
+GO:1990110	GO:1990110	callus formation	0	0/626	
+GO:0009838	GO:0009838	abscission	0	0/626	
+GO:0010014	GO:0010014	meristem initiation	0	0/626	
+GO:0022611	GO:0022611	dormancy process	0	0/626	
+GO:0030583	GO:0030583	myxococcal fruiting body development	0	0/626	
+GO:0043696	GO:0043696	dedifferentiation	0	0/626	
+GO:0043934	GO:0043934	sporulation	0	0/626	
+GO:0060033	GO:0060033	anatomical structure regression	0	0/626	
+GO:0090644	GO:0090644	age-related resistance	0	0/626	
+GO:0090693	GO:0090693	plant organ senescence	0	0/626	
+GO:0097737	GO:0097737	acquisition of mycelium reproductive competence	0	0/626	
+GO:0030447	GO:0030447	filamentous growth	0	0/626	
+GO:0080190	GO:0080190	lateral growth	0	0/626	
+GO:0033058	GO:0033058	directional locomotion	0	0/626	
+GO:0036268	GO:0036268	swimming	0	0/626	
+GO:0060361	GO:0060361	flight	0	0/626	
+GO:0071965	GO:0071965	multicellular organismal locomotion	0	0/626	
+GO:0002358	GO:0002358	B cell homeostatic proliferation	0	0/626	
+GO:0033060	GO:0033060	ocellus pigmentation	0	0/626	
+GO:0043474	GO:0043474	pigment metabolic process involved in pigmentation	0	0/626	
+GO:0043476	GO:0043476	pigment accumulation	0	0/626	
+GO:0048066	GO:0048066	developmental pigmentation	0	0/626	
+GO:0120305	GO:0120305	regulation of pigmentation	0	0/626	
+GO:0035821	GO:0035821	modulation of process of another organism	0	0/626	
+GO:0044111	GO:0044111	formation of structure involved in a symbiotic process	0	0/626	
+GO:0022403	GO:0022403	cell cycle phase	0	0/626	
+GO:0022601	GO:0022601	menstrual cycle phase	0	0/626	
+GO:0044851	GO:0044851	hair cycle phase	0	0/626	
+GO:0072690	GO:0072690	single-celled organism vegetative growth phase	0	0/626	
+GO:1990636	GO:1990636	reproductive senescence	0	0/626	
+GO:0007624	GO:0007624	ultradian rhythm	0	0/626	
+GO:0031139	GO:0031139	positive regulation of conjugation with cellular fusion	0	0/626	
+GO:0032849	GO:0032849	positive regulation of cellular pH reduction	0	0/626	
+GO:0044149	GO:0044149	positive regulation of formation of structure involved in a symbiotic process	0	0/626	
+GO:0048087	GO:0048087	positive regulation of developmental pigmentation	0	0/626	
+GO:0051919	GO:0051919	positive regulation of fibrinolysis	0	0/626	
+GO:0060148	GO:0060148	positive regulation of post-transcriptional gene silencing	0	0/626	
+GO:0075294	GO:0075294	positive regulation by symbiont of entry into host	0	0/626	
+GO:0106428	GO:0106428	positive regulation of kainate selective glutamate receptor signaling pathway	0	0/626	
+GO:0140409	GO:0140409	positive regulation of mRNA alternative polyadenylation	0	0/626	
+GO:0140471	GO:0140471	positive regulation of transepithelial migration of symbiont in host	0	0/626	
+GO:1900048	GO:1900048	positive regulation of hemostasis	0	0/626	
+GO:1900097	GO:1900097	positive regulation of dosage compensation by inactivation of X chromosome	0	0/626	
+GO:1902685	GO:1902685	positive regulation of receptor localization to synapse	0	0/626	
+GO:1903666	GO:1903666	positive regulation of asexual reproduction	0	0/626	
+GO:1903781	GO:1903781	positive regulation of cardiac conduction	0	0/626	
+GO:1904181	GO:1904181	positive regulation of membrane depolarization	0	0/626	
+GO:1904874	GO:1904874	positive regulation of telomerase RNA localization to Cajal body	0	0/626	
+GO:1904912	GO:1904912	positive regulation of establishment of RNA localization to telomere	0	0/626	
+GO:1904915	GO:1904915	positive regulation of establishment of protein-containing complex localization to telomere	0	0/626	
+GO:1905033	GO:1905033	positive regulation of membrane repolarization during cardiac muscle cell action potential	0	0/626	
+GO:1905228	GO:1905228	positive regulation of adhesion of symbiont to host epithelial cell	0	0/626	
+GO:1905339	GO:1905339	positive regulation of cohesin unloading	0	0/626	
+GO:1905514	GO:1905514	positive regulation of short-term synaptic potentiation	0	0/626	
+GO:0031138	GO:0031138	negative regulation of conjugation with cellular fusion	0	0/626	
+GO:0032848	GO:0032848	negative regulation of cellular pH reduction	0	0/626	
+GO:0034260	GO:0034260	negative regulation of GTPase activity	0	0/626	
+GO:0042754	GO:0042754	negative regulation of circadian rhythm	0	0/626	
+GO:0044147	GO:0044147	negative regulation of formation of structure involved in a symbiotic process	0	0/626	
+GO:0048086	GO:0048086	negative regulation of developmental pigmentation	0	0/626	
+GO:0051918	GO:0051918	negative regulation of fibrinolysis	0	0/626	
+GO:0060149	GO:0060149	negative regulation of post-transcriptional gene silencing	0	0/626	
+GO:0060967	GO:0060967	negative regulation of gene silencing by RNA	0	0/626	
+GO:0090394	GO:0090394	negative regulation of excitatory postsynaptic potential	0	0/626	
+GO:0106427	GO:0106427	negative regulation of kainate selective glutamate receptor signaling pathway	0	0/626	
+GO:0110066	GO:0110066	negative regulation of interphase mitotic telomere clustering	0	0/626	
+GO:1900047	GO:1900047	negative regulation of hemostasis	0	0/626	
+GO:1900096	GO:1900096	negative regulation of dosage compensation by inactivation of X chromosome	0	0/626	
+GO:1900453	GO:1900453	negative regulation of long-term synaptic depression	0	0/626	
+GO:1902631	GO:1902631	negative regulation of membrane hyperpolarization	0	0/626	
+GO:1902684	GO:1902684	negative regulation of receptor localization to synapse	0	0/626	
+GO:1902735	GO:1902735	negative regulation of receptor-mediated virion attachment to host cell	0	0/626	
+GO:1903665	GO:1903665	negative regulation of asexual reproduction	0	0/626	
+GO:1903780	GO:1903780	negative regulation of cardiac conduction	0	0/626	
+GO:1904180	GO:1904180	negative regulation of membrane depolarization	0	0/626	
+GO:1904537	GO:1904537	negative regulation of mitotic telomere tethering at nuclear periphery	0	0/626	
+GO:1904873	GO:1904873	negative regulation of telomerase RNA localization to Cajal body	0	0/626	
+GO:1904911	GO:1904911	negative regulation of establishment of RNA localization to telomere	0	0/626	
+GO:1904914	GO:1904914	negative regulation of establishment of protein-containing complex localization to telomere	0	0/626	
+GO:1905032	GO:1905032	negative regulation of membrane repolarization during cardiac muscle cell action potential	0	0/626	
+GO:1905227	GO:1905227	negative regulation of adhesion of symbiont to host epithelial cell	0	0/626	
+GO:1905338	GO:1905338	negative regulation of cohesin unloading	0	0/626	
+GO:1905513	GO:1905513	negative regulation of short-term synaptic potentiation	0	0/626	
+GO:1905869	GO:1905869	negative regulation of 3'-UTR-mediated mRNA stabilization	0	0/626	
+GO:2000536	GO:2000536	negative regulation of entry of bacterium into host cell	0	0/626	
+GO:0031137	GO:0031137	regulation of conjugation with cellular fusion	0	0/626	
+GO:0032847	GO:0032847	regulation of cellular pH reduction	0	0/626	
+GO:0043903	GO:0043903	regulation of biological process involved in symbiotic interaction	0	0/626	
+GO:0044145	GO:0044145	modulation of formation of structure involved in a symbiotic process	0	0/626	
+GO:0097006	GO:0097006	regulation of plasma lipoprotein particle levels	0	0/626	
+GO:1900046	GO:1900046	regulation of hemostasis	0	0/626	
+GO:1903664	GO:1903664	regulation of asexual reproduction	0	0/626	
+GO:0014823	GO:0014823	response to activity	0	0/626	
+GO:0014854	GO:0014854	response to inactivity	0	0/626	
+GO:0014874	GO:0014874	response to stimulus involved in regulation of muscle adaptation	0	0/626	
+GO:0051775	GO:0051775	response to redox state	0	0/626	
+GO:0035732	GO:0035732	nitric oxide storage	0	0/626	
+GO:0036214	GO:0036214	contractile ring localization	0	0/626	
+GO:0000128	GO:0000128	flocculation	0	0/626	
+GO:0000758	GO:0000758	agglutination involved in conjugation with mutual genetic exchange	0	0/626	
+GO:0044010	GO:0044010	single-species biofilm formation	0	0/626	
+GO:0099120	GO:0099120	socially cooperative development	0	0/626	
+GO:0120318	GO:0120318	olfactory sociosexual communication	0	0/626	
+GO:0031413	GO:0031413	regulation of buoyancy	0	0/626	
+GO:0060378	GO:0060378	regulation of brood size	0	0/626	
+GO:0009407	GO:0009407	toxin catabolic process	0	0/626	
+GO:0010127	GO:0010127	mycothiol-dependent detoxification	0	0/626	
+GO:0010312	GO:0010312	detoxification of zinc ion	0	0/626	
+GO:0051410	GO:0051410	detoxification of nitrogen compound	0	0/626	
+GO:0061687	GO:0061687	detoxification of inorganic compound	0	0/626	
+GO:0071722	GO:0071722	detoxification of arsenic-containing substance	0	0/626	
+GO:0140330	GO:0140330	xenobiotic detoxification by transmembrane export across the cell outer membrane	0	0/626	
+GO:0140725	GO:0140725	detoxification of free heme	0	0/626	
+GO:0140729	GO:0140729	self-resistance to endogenously produced metabolite	0	0/626	
+GO:1990961	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane	0	0/626	

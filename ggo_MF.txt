@@ -1,0 +1,196 @@
+ID	Description	Count	GeneRatio	geneID
+GO:0005515	GO:0005515	protein binding	202	202/626	Slc24a4/Serpina3k/Serpina3k/Tcl1b2/Tcl1b1/Tcl1b5/Tcl1b3/Ctla2b/Pcsk1/Htr1a/Rab3c/Hcn1/Fgf10/2610042L04Rik/Ang6/Tlr11/Ang4/Stc1/Pcdh9/Klhl1/Tpm3-rs7/Nalcn/Itgbl1/Fgf14/Mroh2b/Spef2/Cdh9/Cdh10/Cdh12/Cdh18/Fbxl7/Rims2/Zfpm2/Angpt1/Rspo2/Cadm2/Rbm11/Chodl/Ncam2/Grik1/Nox3/Dynlt1c/Rps6ka2/Tcp10a/Pacrg/Fpr3/Fpr-rs4/Fpr-rs3/H2-M11/H2-M9/H2-M1/H2-M2/Esp36/Esp8/Gm44501/Gm44501/Esp6/Esp6/Esp4/Esp3/Esp1/Sorcs3/Sorcs1/Hacd1/Malrd1/Nebl/Etl4/Gpr158/Myo3a/Nxph2/Tbpl2/Adamtsl2/Col5a1/Olfm1/Ntng2/Lrp1b/Kynu/Psmd14/Tbr1/Scn2a/Scn7a/Pde1a/Fsip2/Lrrc4c/Bdnf/Ano3/Ryr3/Sema6d/Syndig1/Ptprt/Ralyl/Bhlhe22/Nlgn1/Pex5l/Fat4/Dhx36/Slitrk3/Gria2/Glrb/Pdgfc/Lce1a2/Lce1e/Lce1f/Lce1g/Lce1l/Tdpoz5/Kcnd3/Pifo/Chil5/Chia1/Chil3/Chil4/Chil6/Kcna2/Ntng1/Olfm3/Plppr4/Dpyd/Bank1/Unc5c/Bmpr1b/Sdr16c5/Cngb3/Fhl5/Cnr1/1700009N14Rik/Ccl27b/Ccl19/Ccl21a/Grin3a/Mup1/Astn2/Frmd3/Ptprd/Cntln/Sh3gl2/Izumo3/Pde4b/Dab1/Agbl4/Skint8/Skint7/Skint1/Skint4/Skint3/Skint9/Skint2/Skint10/Skint6/Skint5/Adam22/Grm3/Sema3a/Pclo/Cacna2d1/Hgf/Magi2/Dpp6/Evc/Evc2/Ldb2/Pcdh7/G6pd2/Rbm47/Gabrg1/Gabra2/Gabrb1/Adgrl3/Epha5/Csn1s2a/Csn1s2b/Nxph1/Foxp2/Kcnd2/Plxna4/Chrm2/Ptn/Dgki/Pip/Tcaf1/Cntnap2/Pde1c/Grid2/Atoh1/Ctnna2/Reg1/Gm20594/Lrrtm4/Fbln2/Chl1/Cntn6/Crbn/Grm7/Gm7298/Mug1/Mug2/Clec4n/Clec4d/Clec4e/Lmo3/Pira2/Nlrp2
+GO:0043167	GO:0043167	ion binding	101	101/626	Abcb5/Mctp1/Edil3/Htr1a/Rab3c/Hcn1/Ang6/Ang4/Pcdh20/Capsl/Adamts12/Cdh9/Cdh10/Cdh12/Cdh18/Rims2/Zfpm2/Epha6/Htr1f/Grik1/Rps6ka2/Cyp2c40/Nebl/Myo3a/Gad2/Dbh/Sardh/Lrp1b/Kynu/Galnt13/Galnt5/Psmd14/Scn2a/Scn1a/Scn9a/Pde1a/Zfp804a/Trim44/Ryr3/Hao1/Sptlc3/Zfhx4/Cyp7b1/Egfem1/Fat4/Dhx36/Zbbx/Fstl5/Glrb/Flg2/Kcnd3/Col11a1/Dpyd/Bmpr1b/Adgrl4/Mmp16/Cngb3/Fhl5/Grin3a/Pappa/Astn2/Pde4b/Agbl4/Cyp4a12a/Cyp4a12b/Cyp4a14/Cyp4a10/Cyp4b1/Pclo/Cacna2d1/Stk32b/Kcnip4/Adgrl3/Epha5/Cabs1/Caln1/Galnt17/Foxp2/Kcnd2/Zfp800/Ptn/Dgki/Moxd2/Try4/Try5/Try10/Prss3/Prss1/Prss2/Kel/Pde1c/Fbln2/Crbn/Grm7/Clec4a4/Clec4a2/Clec4n/Clec4d/Clec4e/Lmo3/Clcn4
+GO:0038023	GO:0038023	signaling receptor activity	81	81/626	Htr1a/Tlr11/Gfra2/Olfr209/Epha6/Htr1f/Grik1/Fpr3/Fpr-rs4/Fpr-rs3/Gpr158/Ptprt/Nlgn1/Gpr149/Gria2/Glrb/Tacr3/Unc5c/Bmpr1b/Adgrl4/Cnr1/Gm13305/Grin3a/Mup1/Grm3/Gabrg1/Gabra2/Gabra4/Gabrb1/Adgrl3/Epha5/Calcr/Grm8/Plxna4/Chrm2/Vmn1r6/Vmn1r7/Vmn1r8/Vmn1r9/Vmn1r10/Vmn1r11/Vmn1r13/Vmn1r14/Vmn1r15/Vmn1r16/Vmn1r17/Vmn1r18/Vmn1r19/Vmn1r22/Vmn1r23/Vmn1r24/Vmn1r25/Vmn1r26/Vmn1r29/Vmn1r30/Grid2/Vmn1r33/Vmn1r35/Vmn1r36/Vmn1r37/Vmn1r38/Reg2/Reg1/Reg3g/Vmn1r45/Vmn1r46/Grm7/Clec4n/Clec4d/Clec4e/Vmn2r19/Tas2r113/Pira2/Vmn2r33/Vmn2r35/Vmn2r41/Vmn2r40/Vmn2r37/Vmn2r47/Vmn2r48/Vmn2r49
+GO:1901363	GO:1901363	heterocyclic compound binding	63	63/626	Abcb5/Htr1a/Rab3c/Hcn1/Gm7324/Ang4/Zfpm2/Epha6/Htr1f/Rbm11/Grik1/Rps6ka2/Kcnh8/Cyp2c67/Cyp2c68/Cyp2c40/Celf2/Myo3a/Gad2/Tbpl2/Dbh/Sardh/Kynu/Tbr1/Hao1/Sptlc3/Gm14295/Zfhx4/Ralyl/Bhlhe22/Cyp7b1/Pabpc4l/Dhx36/Dpyd/Bmpr1b/Cngb3/Mms22l/Zfp352/Elavl2/Cyp2j12/Cyp2j7/Cyp2j11/Cyp2j8/Pde4b/Elavl4/Cyp4a12a/Cyp4a12b/Cyp4a14/Cyp4a10/Cyp4b1/Zfp980/Zfp987/Zfp600/Stk32b/G6pd2/Rbm47/Epha5/Foxp2/Zfp800/Dgki/Pde1c/Atoh1/Clcn4
+GO:0097159	GO:0097159	organic cyclic compound binding	62	62/626	Abcb5/Htr1a/Rab3c/Hcn1/Gm7324/Ang4/Zfpm2/Epha6/Htr1f/Rbm11/Rps6ka2/Kcnh8/Cyp2c67/Cyp2c68/Cyp2c40/Celf2/Myo3a/Gad2/Tbpl2/Dbh/Sardh/Kynu/Tbr1/Hao1/Sptlc3/Gm14295/Zfhx4/Ralyl/Bhlhe22/Cyp7b1/Pabpc4l/Dhx36/Dpyd/Bmpr1b/Cngb3/Mms22l/Zfp352/Elavl2/Cyp2j12/Cyp2j7/Cyp2j11/Cyp2j8/Pde4b/Elavl4/Cyp4a12a/Cyp4a12b/Cyp4a14/Cyp4a10/Cyp4b1/Zfp980/Zfp987/Zfp600/Stk32b/G6pd2/Rbm47/Epha5/Foxp2/Zfp800/Dgki/Pde1c/Atoh1/Clcn4
+GO:0016787	GO:0016787	hydrolase activity	58	58/626	Ctsj/Ctsq/Pcsk1/Adamts6/Rab3c/Ang6/Ang4/Adamts12/Acot10/Lipi/Tmprss15/Kynu/Psmd14/Pde1a/Macrod2/Pcsk2/Ptprt/Dhx36/Sis/Chil5/Chia1/Chil3/Chil6/Plppr4/Ndst3/Ndst4/Mmp16/1700009N14Rik/Pappa/Ptprd/Pde4b/Agbl4/Adam22/Hgf/Dpp6/Tmprss11a/Tmprss11g/Tmprss11f/Mgam/Mgam2-ps/Prss58/1810009J06Rik/Gm2663/Try4/Try5/Try10/Prss3/Gm5771/Gm10334/Prss1/Prss2/Kel/Pip/Sval2/Sval1/Sval3/Sva/Pde1c
+GO:0140096	GO:0140096	catalytic activity, acting on a protein	49	49/626	Ctsj/Ctsq/Pcsk1/Adamts6/Adamts12/Epha6/Tmprss15/Rps6ka2/Myo3a/Galnt13/Galnt5/Psmd14/Trim44/Pcsk2/Ptprt/Bmpr1b/Mmp16/Mup1/Pappa/Ptprd/Agbl4/Adam22/Hgf/Dpp6/Stk32b/Grxcr1/Epha5/Tmprss11a/Tmprss11g/Tmprss11f/Galnt17/Prss58/1810009J06Rik/Gm2663/Try4/Try5/Try10/Prss3/Gm5771/Gm10334/Prss1/Prss2/Kel/Pip/Sval2/Sval1/Sval3/Sva/Gm9008
+GO:0022857	GO:0022857	transmembrane transporter activity	43	43/626	Slc24a4/Abcb5/Hcn1/Slc35f4/Nalcn/Grik1/Kcnh8/Slc39a12/Kcnj3/Slc4a10/Scn2a/Scn1a/Scn9a/Scn7a/Slc5a12/Ano3/Ryr3/Slc24a3/Slc7a12/Pex5l/Gria2/Glrb/Kcnd3/Kcna3/Kcna2/Kcna10/Slc26a7/Cngb3/Grin3a/Slc24a2/Slc5a9/Cacna2d1/Kcnip4/Gabrg1/Gabra2/Gabra4/Gabrb1/Kcnd2/Grid2/Slc25a26/Grm7/Slc6a11/Clcn4
+GO:0036094	GO:0036094	small molecule binding	36	36/626	Abcb5/Rab3c/Hcn1/Epha6/Grik1/Rps6ka2/Myo3a/Gad2/Dbh/Sardh/Kynu/Hao1/Sptlc3/Dhx36/Glrb/Col11a1/Dpyd/Bmpr1b/Cngb3/Grin3a/Mup17/Astn2/Pde4b/Cyp4a14/Stk32b/G6pd2/Epha5/Ptn/Dgki/Pde1c/Grm7/Clec4a4/Clec4a2/Clec4n/Clec4d/Clcn4
+GO:0097367	GO:0097367	carbohydrate derivative binding	36	36/626	Abcb5/Rab3c/Hcn1/Fgf10/Ang6/Ang4/Fgf14/Rspo2/Epha6/Lipi/Rps6ka2/Myo3a/Col5a1/Hao1/Dhx36/Chil5/Chia1/Chil3/Chil4/Chil6/Col11a1/Bmpr1b/Cngb3/Pde4b/Stk32b/Epha5/Ptn/Dgki/Pde1c/Reg2/Reg1/Reg3g/Lrrtm4/Clec4a4/Clec4e/Clcn4
+GO:0140677	GO:0140677	molecular function activator activity	32	32/626	Tcl1b2/Tcl1b1/Tcl1b5/Tcl1b3/Ctsj/Ctsq/Fgf10/Stc1/Fgf14/Rims2/Esp36/Esp8/Gm44501/Gm44501/Esp6/Esp6/Esp4/Esp3/Esp1/Arhgap15/Psmd14/Bdnf/Sema6d/Pdgfc/1700006A11Rik/Ccl19/Ccl21a/Mup1/Sema3a/Hgf/Ptn/Reg1
+GO:0016491	GO:0016491	oxidoreductase activity	29	29/626	Oxr1/Nox3/Cyp2c67/Cyp2c68/Cyp2c40/Dbh/Sardh/Hao1/Cyp7b1/Dpyd/Pdha2/Sdr16c5/Sdr16c6/Cyp2j12/Cyp2j7/Cyp2j11/Cyp2j8/Cyp4a12a/Cyp4a12b/Cyp4a30b/Cyp4a14/Cyp4a10/Cyp4a31/Cyp4a32/Cyp4b1/G6pd2/Grxcr1/Tecrl/Moxd2
+GO:0030234	GO:0030234	enzyme regulator activity	26	26/626	Serpina3j/Serpina3k/Serpina3k/Serpina3m/Serpina3m/Tcl1b2/Tcl1b1/Tcl1b5/Tcl1b3/Ctla2b/Ctsj/Ctsq/Arhgap15/Psmd14/Cst10/1700006A11Rik/Csn2/Smr3a/Smr2/Ptn/Dgki/Grm7/Gm7298/Mug1/Mug2/Nlrp2
+GO:0005549	GO:0005549	odorant binding	25	25/626	Olfr209/Mup1/Mup10/Mup13/Mup14/Mup15/Mup17/Vmn1r6/Vmn1r7/Vmn1r8/Vmn1r9/Vmn1r16/Vmn1r17/Vmn1r18/Vmn1r19/Vmn1r22/Vmn1r23/Vmn1r24/Vmn1r26/Vmn1r30/Vmn1r33/Vmn1r35/Vmn1r36/Vmn1r37/Vmn1r38
+GO:0016740	GO:0016740	transferase activity	24	24/626	Ugt3a1/Ugt3a2/Epha6/Rps6ka2/St6gal2/Myo3a/Hnmt/Galnt13/Galnt5/B3galt1/Trim44/Mettl15/Sptlc3/Ndst3/Ndst4/Ugt8a/Bmpr1b/Mup1/Stk32b/Epha5/Ugt2b37/Galnt17/Dgki/Gm9008
+GO:0044877	GO:0044877	protein-containing complex binding	24	24/626	Hcn1/Tpm3-rs7/Itgbl1/Rims2/H2-M11/H2-M9/H2-M1/H2-M2/Nebl/Myo3a/Gad2/Psmd14/Nlgn1/Gria2/Glrb/Flg/Cngb3/Hgf/Magi2/Kcnd2/Ptn/Pip/Ctnna2/Pira2
+GO:0030545	GO:0030545	signaling receptor regulator activity	23	23/626	Fgf10/Stc1/Fgf14/Esp36/Esp8/Gm44501/Gm44501/Esp6/Esp6/Esp4/Esp3/Esp1/Bdnf/Sema6d/Pdgfc/Ccl19/Ccl21a/Mup1/Sema3a/Hgf/Ptn/Reg1/Gm20594
+GO:0030246	GO:0030246	carbohydrate binding	20	20/626	Chodl/Dbh/Galnt13/Galnt5/Chil3/G6pd2/Adgrl3/Galnt17/Ptn/Reg2/Reg1/Reg3g/Clec4a4/Clec4b1/Clec4a2/Clec4b2/Clec4n/Clec4d/Clec4e/Gm5065
+GO:0140678	GO:0140678	molecular function inhibitor activity	20	20/626	Serpina3j/Serpina3k/Serpina3k/Serpina3m/Serpina3m/Ctla2b/Cst10/Csn2/Smr3a/Smr2/Ptn/Dgki/Reg2/Reg1/Gm20594/Grm7/Gm7298/Mug1/Mug2/Nlrp2
+GO:0033218	GO:0033218	amide binding	17	17/626	Ang6/Ang4/Grik1/Fpr3/Fpr-rs4/Fpr-rs3/H2-M11/H2-M9/H2-M1/H2-M2/Gad2/Sardh/Pex5l/Gpr149/Gria2/Calcr/Grm7
+GO:1901681	GO:1901681	sulfur compound binding	10	10/626	Fgf10/Ang6/Ang4/Fgf14/Rspo2/Lipi/Col5a1/Col11a1/Ptn/Lrrtm4
+GO:0003700	GO:0003700	DNA-binding transcription factor activity	8	8/626	Tbr1/Gm14295/Zfhx4/Bhlhe22/Zfp352/Zfp600/Foxp2/Atoh1
+GO:0008289	GO:0008289	lipid binding	7	7/626	Hcn1/Veph1/Sh3gl2/Dab1/Cyp4a14/Pclo/Clec4e
+GO:0030674	GO:0030674	protein-macromolecule adaptor activity	6	6/626	Rims2/Bank1/Cntln/Magi2/Rbm47/E330014E10Rik
+GO:0003712	GO:0003712	transcription coregulator activity	6	6/626	Zfpm2/Tcp10a/Sdr16c5/Fhl5/Ldb2/Lmo3
+GO:0016853	GO:0016853	isomerase activity	4	4/626	Cyp2j12/Cyp2j7/Cyp2j11/Cyp2j8
+GO:0140640	GO:0140640	catalytic activity, acting on a nucleic acid	4	4/626	Ang6/Ang4/Mettl15/Dhx36
+GO:0003823	GO:0003823	antigen binding	4	4/626	H2-M11/H2-M9/H2-M1/H2-M2
+GO:0016247	GO:0016247	channel regulator activity	4	4/626	Grm3/Dpp6/Kcnip4/Grm7
+GO:0016829	GO:0016829	lyase activity	3	3/626	Hacd1/Gad2/Aldoart1
+GO:0005201	GO:0005201	extracellular matrix structural constituent	3	3/626	Col5a1/Col11a1/Fbln2
+GO:0098918	GO:0098918	structural constituent of synapse	3	3/626	Rims2/Pclo/Magi2
+GO:0003682	GO:0003682	chromatin binding	3	3/626	Tbr1/Bhlhe22/Atoh1
+GO:0042165	GO:0042165	neurotransmitter binding	2	2/626	Grin3a/Slc6a11
+GO:0043176	GO:0043176	amine binding	2	2/626	Htr1a/Htr1f
+GO:0046848	GO:0046848	hydroxyapatite binding	2	2/626	Hacd1/5530400C23Rik
+GO:0000146	GO:0000146	microfilament motor activity	1	1/626	Myo3a
+GO:0030280	GO:0030280	structural constituent of skin epidermis	1	1/626	Flg
+GO:0005319	GO:0005319	lipid transporter activity	1	1/626	Ano3
+GO:0042562	GO:0042562	hormone binding	1	1/626	Calcr
+GO:0050436	GO:0050436	microfibril binding	1	1/626	Adamtsl2
+GO:0050840	GO:0050840	extracellular matrix binding	1	1/626	Fbln2
+GO:0051540	GO:0051540	metal cluster binding	1	1/626	Dpyd
+GO:0072341	GO:0072341	modified amino acid binding	1	1/626	Sardh
+GO:0005044	GO:0005044	scavenger receptor activity	1	1/626	Tmprss15
+GO:0030228	GO:0030228	lipoprotein particle receptor activity	1	1/626	Lrp1b
+GO:0016251	GO:0016251	RNA polymerase II general transcription initiation factor activity	1	1/626	Tbpl2
+GO:0004386	GO:0004386	helicase activity	1	1/626	Dhx36
+GO:0008094	GO:0008094	ATP-dependent activity, acting on DNA	1	1/626	Dhx36
+GO:0008186	GO:0008186	ATP-dependent activity, acting on RNA	1	1/626	Dhx36
+GO:0042626	GO:0042626	ATPase-coupled transmembrane transporter activity	1	1/626	Abcb5
+GO:0003777	GO:0003777	microtubule motor activity	0	0/626	
+GO:0061791	GO:0061791	GTPase motor activity	0	0/626	
+GO:0140605	GO:0140605	proton motive force-driven motor activity	0	0/626	
+GO:0004133	GO:0004133	glycogen debranching enzyme activity	0	0/626	
+GO:0009975	GO:0009975	cyclase activity	0	0/626	
+GO:0016218	GO:0016218	polyketide synthase activity	0	0/626	
+GO:0016874	GO:0016874	ligase activity	0	0/626	
+GO:0032451	GO:0032451	demethylase activity	0	0/626	
+GO:0061783	GO:0061783	peptidoglycan muralytic activity	0	0/626	
+GO:1904091	GO:1904091	non-ribosomal peptide synthetase activity	0	0/626	
+GO:0003735	GO:0003735	structural constituent of ribosome	0	0/626	
+GO:0005199	GO:0005199	structural constituent of cell wall	0	0/626	
+GO:0005200	GO:0005200	structural constituent of cytoskeleton	0	0/626	
+GO:0005212	GO:0005212	structural constituent of eye lens	0	0/626	
+GO:0005213	GO:0005213	structural constituent of egg chorion	0	0/626	
+GO:0008147	GO:0008147	structural constituent of bone	0	0/626	
+GO:0008307	GO:0008307	structural constituent of muscle	0	0/626	
+GO:0008316	GO:0008316	structural constituent of vitelline membrane	0	0/626	
+GO:0016490	GO:0016490	structural constituent of peritrophic membrane	0	0/626	
+GO:0017056	GO:0017056	structural constituent of nuclear pore	0	0/626	
+GO:0019911	GO:0019911	structural constituent of myelin sheath	0	0/626	
+GO:0030281	GO:0030281	structural constituent of cutaneous appendage	0	0/626	
+GO:0030527	GO:0030527	structural constituent of chromatin	0	0/626	
+GO:0039660	GO:0039660	structural constituent of virion	0	0/626	
+GO:0042302	GO:0042302	structural constituent of cuticle	0	0/626	
+GO:0043886	GO:0043886	structural constituent of carboxysome shell	0	0/626	
+GO:0097099	GO:0097099	structural constituent of albumen	0	0/626	
+GO:0097493	GO:0097493	structural molecule activity conferring elasticity	0	0/626	
+GO:0140756	GO:0140756	structural constituent of proteasome	0	0/626	
+GO:0140318	GO:0140318	protein transporter activity	0	0/626	
+GO:0000035	GO:0000035	acyl binding	0	0/626	
+GO:0008430	GO:0008430	selenium binding	0	0/626	
+GO:0015643	GO:0015643	toxic substance binding	0	0/626	
+GO:0019808	GO:0019808	polyamine binding	0	0/626	
+GO:0031409	GO:0031409	pigment binding	0	0/626	
+GO:0033226	GO:0033226	2-aminoethylphosphonate binding	0	0/626	
+GO:0035731	GO:0035731	dinitrosyl-iron complex binding	0	0/626	
+GO:0043287	GO:0043287	poly(3-hydroxyalkanoate) binding	0	0/626	
+GO:0043515	GO:0043515	kinetochore binding	0	0/626	
+GO:0044590	GO:0044590	iron-sulfur-molybdenum cofactor binding	0	0/626	
+GO:0046790	GO:0046790	virion binding	0	0/626	
+GO:0046812	GO:0046812	host cell surface binding	0	0/626	
+GO:0048038	GO:0048038	quinone binding	0	0/626	
+GO:0050825	GO:0050825	ice binding	0	0/626	
+GO:0050997	GO:0050997	quaternary ammonium group binding	0	0/626	
+GO:0051192	GO:0051192	prosthetic group binding	0	0/626	
+GO:0070025	GO:0070025	carbon monoxide binding	0	0/626	
+GO:0070026	GO:0070026	nitric oxide binding	0	0/626	
+GO:0072328	GO:0072328	alkene binding	0	0/626	
+GO:0097243	GO:0097243	flavonoid binding	0	0/626	
+GO:0140272	GO:0140272	exogenous protein binding	0	0/626	
+GO:0140355	GO:0140355	cargo receptor ligand activity	0	0/626	
+GO:1902670	GO:1902670	carbon dioxide binding	0	0/626	
+GO:1904483	GO:1904483	synthetic cannabinoid binding	0	0/626	
+GO:1904493	GO:1904493	tetrahydrofolyl-poly(glutamate) polymer binding	0	0/626	
+GO:1990300	GO:1990300	cellulosome binding	0	0/626	
+GO:0004862	GO:0004862	cAMP-dependent protein kinase inhibitor activity	0	0/626	
+GO:0008427	GO:0008427	calcium-dependent protein kinase inhibitor activity	0	0/626	
+GO:0004362	GO:0004362	glutathione-disulfide reductase (NADPH) activity	0	0/626	
+GO:0004601	GO:0004601	peroxidase activity	0	0/626	
+GO:0004784	GO:0004784	superoxide dismutase activity	0	0/626	
+GO:0004791	GO:0004791	thioredoxin-disulfide reductase activity	0	0/626	
+GO:0032542	GO:0032542	sulfiredoxin activity	0	0/626	
+GO:0045174	GO:0045174	glutathione dehydrogenase (ascorbate) activity	0	0/626	
+GO:0050605	GO:0050605	superoxide reductase activity	0	0/626	
+GO:0004861	GO:0004861	cyclin-dependent protein serine/threonine kinase inhibitor activity	0	0/626	
+GO:0061575	GO:0061575	cyclin-dependent protein serine/threonine kinase activator activity	0	0/626	
+GO:0008426	GO:0008426	protein kinase C inhibitor activity	0	0/626	
+GO:0004873	GO:0004873	asialoglycoprotein receptor activity	0	0/626	
+GO:0004998	GO:0004998	transferrin receptor activity	0	0/626	
+GO:0008196	GO:0008196	vitellogenin receptor activity	0	0/626	
+GO:0016964	GO:0016964	alpha-2 macroglobulin receptor activity	0	0/626	
+GO:0030226	GO:0030226	apolipoprotein receptor activity	0	0/626	
+GO:0033568	GO:0033568	lactoferrin receptor activity	0	0/626	
+GO:0061714	GO:0061714	folic acid receptor activity	0	0/626	
+GO:0070287	GO:0070287	ferritin receptor activity	0	0/626	
+GO:0097020	GO:0097020	COPII receptor activity	0	0/626	
+GO:0140488	GO:0140488	heme receptor activity	0	0/626	
+GO:0042557	GO:0042557	eukaryotic elongation factor-2 kinase activator activity	0	0/626	
+GO:0140662	GO:0140662	ATP-dependent protein folding chaperone	0	0/626	
+GO:0004694	GO:0004694	eukaryotic translation initiation factor 2alpha kinase activity	0	0/626	
+GO:0030371	GO:0030371	translation repressor activity	0	0/626	
+GO:0039594	GO:0039594	endoribonuclease activity involved in viral induction of host mRNA catabolic process	0	0/626	
+GO:0045183	GO:0045183	translation factor activity, non-nucleic acid binding	0	0/626	
+GO:0090079	GO:0090079	translation regulator activity, nucleic acid binding	0	0/626	
+GO:0090624	GO:0090624	endoribonuclease activity, cleaving miRNA-paired mRNA	0	0/626	
+GO:0000156	GO:0000156	phosphorelay response regulator activity	0	0/626	
+GO:0009927	GO:0009927	histidine phosphotransfer kinase activity	0	0/626	
+GO:0031992	GO:0031992	energy transducer activity	0	0/626	
+GO:0030533	GO:0030533	triplet codon-amino acid adaptor activity	0	0/626	
+GO:0106260	GO:0106260	DNA-DNA tethering activity	0	0/626	
+GO:0003925	GO:0003925	G protein activity	0	0/626	
+GO:0060590	GO:0060590	ATPase regulator activity	0	0/626	
+GO:0140659	GO:0140659	cytoskeletal motor regulator activity	0	0/626	
+GO:0005344	GO:0005344	oxygen carrier activity	0	0/626	
+GO:0016530	GO:0016530	metallochaperone activity	0	0/626	
+GO:0097163	GO:0097163	sulfur carrier activity	0	0/626	
+GO:0140132	GO:0140132	iron-sulfur cluster carrier activity	0	0/626	
+GO:0140142	GO:0140142	nucleocytoplasmic carrier activity	0	0/626	
+GO:0140414	GO:0140414	phosphopantetheine-dependent carrier activity	0	0/626	
+GO:0140597	GO:0140597	protein carrier chaperone	0	0/626	
+GO:0001070	GO:0001070	RNA-binding transcription regulator activity	0	0/626	
+GO:0001072	GO:0001072	transcription antitermination factor activity, RNA binding	0	0/626	
+GO:0001073	GO:0001073	transcription antitermination factor activity, DNA binding	0	0/626	
+GO:0003711	GO:0003711	transcription elongation factor activity	0	0/626	
+GO:0034246	GO:0034246	mitochondrial transcription factor activity	0	0/626	
+GO:0043856	GO:0043856	anti-sigma factor antagonist activity	0	0/626	
+GO:0000995	GO:0000995	RNA polymerase III general transcription initiation factor activity	0	0/626	
+GO:0001181	GO:0001181	RNA polymerase I general transcription initiation factor activity	0	0/626	
+GO:0000155	GO:0000155	phosphorelay sensor kinase activity	0	0/626	
+GO:0005034	GO:0005034	osmosensor activity	0	0/626	
+GO:0019826	GO:0019826	oxygen sensor activity	0	0/626	
+GO:0035991	GO:0035991	nitric oxide sensor activity	0	0/626	
+GO:0070027	GO:0070027	carbon monoxide sensor activity	0	0/626	
+GO:0106254	GO:0106254	lipid sensor activity	0	0/626	
+GO:0140442	GO:0140442	peroxide sensor activity	0	0/626	
+GO:0140612	GO:0140612	DNA damage sensor activity	0	0/626	
+GO:0140784	GO:0140784	metal ion sensor activity	0	0/626	
+GO:0140785	GO:0140785	amino acid sensor activity	0	0/626	
+GO:0097351	GO:0097351	toxin sequestering activity	0	0/626	
+GO:0140311	GO:0140311	protein sequestering activity	0	0/626	
+GO:0140319	GO:0140319	receptor decoy activity	0	0/626	
+GO:0140487	GO:0140487	metal ion sequestering activity	0	0/626	
+GO:0140610	GO:0140610	RNA sequestering activity	0	0/626	
+GO:0000497	GO:0000497	DNA template activity	0	0/626	
+GO:0140490	GO:0140490	microtubule nucleator activity	0	0/626	
+GO:0140523	GO:0140523	GTPase-dependent fusogenic activity	0	0/626	
+GO:0004176	GO:0004176	ATP-dependent peptidase activity	0	0/626	
+GO:0008568	GO:0008568	microtubule severing ATPase activity	0	0/626	
+GO:0008641	GO:0008641	ubiquitin-like modifier activating enzyme activity	0	0/626	
+GO:0015645	GO:0015645	fatty acid ligase activity	0	0/626	
+GO:0016887	GO:0016887	ATP hydrolysis activity	0	0/626	
+GO:0030899	GO:0030899	calcium-dependent ATPase activity	0	0/626	
+GO:0036310	GO:0036310	ATP-dependent DNA/DNA annealing activity	0	0/626	
+GO:0036402	GO:0036402	proteasome-activating activity	0	0/626	
+GO:0070463	GO:0070463	tubulin-dependent ATPase activity	0	0/626	
+GO:0140326	GO:0140326	ATPase-coupled intramembrane lipid transporter activity	0	0/626	
+GO:0140545	GO:0140545	ATP-dependent protein disaggregase activity	0	0/626	
+GO:0140567	GO:0140567	membrane protein dislocase activity	0	0/626	
+GO:0140663	GO:0140663	ATP-dependent FeS chaperone activity	0	0/626	
+GO:1990833	GO:1990833	clathrin-uncoating ATPase activity	0	0/626	
+GO:0003789	GO:0003789	actin filament severing activity	0	0/626	
+GO:0140775	GO:0140775	actin filament debranching activity	0	0/626	
+GO:0140778	GO:0140778	microtubule stabilizing activity	0	0/626	

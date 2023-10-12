@@ -1,0 +1,400 @@
+#####################################################################################################################
+#####################################################################################################################
+# GO Enrichment Analysis
+# One of the main uses of the GO is to perform enrichment analysis on gene sets. 
+# For example, given a set of genes that are up-regulated under certain conditions, 
+# an enrichment analysis will find which GO terms are over-represented (or under-represented) using annotations for that gene set.
+
+# Sources
+# https://ycl6.github.io/GO-Enrichment-Analysis-Demo/3_clusterProfiler.html
+# https://yulab-smu.top/biomedical-knowledge-mining-book/enrichplot.html
+# Convert ENSEMBL/ENTREZID gene IDs to Symbol in R
+
+#####################################################################################################################
+#####################################################################################################################
+# Packages
+BiocManager::install("TxDb.Mmusculus.UCSC.mm10.knownGene")
+BiocManager::install("org.Mm.eg.db")
+BiocManager::install("AnnotationDbi")
+BiocManager::install("clusterProfiler")
+BiocManager::install(organism, character.only = TRUE)
+BiocManager::install("ggupset")
+BiocManager::install("europepmc")
+
+#####################################################################################################################
+#####################################################################################################################
+
+# Libraries
+library(clusterProfiler)
+library(dplyr)
+library(readxl)
+library(enrichplot)
+library(ggplot2)
+library(cowplot)
+library(ggplot2)
+library(ggupset)
+library(TxDb.Mmusculus.UCSC.mm10.knownGene)
+library("org.Mm.eg.db")
+library("AnnotationDbi")
+library("europepmc")
+
+#####################################################################################################################
+#####################################################################################################################
+
+# Set your working directory if needed
+# setwd("/path/to/your/directory")
+
+#####################################################################################################################
+#####################################################################################################################
+
+# Organism Annotation DB
+# There are many organism-level (org) packages readily available on Bioconductor. 
+# They provide mappings between a central identifier (e.g. Entrez Gene identifiers) and other identifiers (e.g. ensembl ID, Refseq Identifiers, GO Identifiers, etc).
+# List available organism-level packages for installation in BiocManager.
+  # BiocManager::available("^org\\.")
+# Install Mmusculus org package 
+  # BiocManager::install("org.Mm.eg.db")
+  # library("org.Mm.eg.db")
+
+#####################################################################################################################
+#####################################################################################################################
+
+# Use the columns function to see valid keytypes
+keytypes <- columns(org.Mm.eg.db)
+print(keytypes)
+
+#####################################################################################################################
+#####################################################################################################################
+
+# Read the 'genes_on_PMDs.txt' file into a data frame
+genes_data <- read.table("genes_on_PMDs.txt", header = TRUE, sep = "\t")
+
+# You can also manually convert the factors to strings/characters by. Import your data set
+genes_data$name <- as.character(genes_data$name)
+
+genes_data$ENTREZID <- mapIds(org.Mm.eg.db, keys = genes_data$name, keytype = "SYMBOL", column = "ENTREZID")
+
+genes_data$ENSEMBL <- mapIds(org.Mm.eg.db, keys = genes_data$name, keytype = "SYMBOL", column = "ENSEMBL")
+
+genes_data$SYMBOL <- mapIds(org.Mm.eg.db, keys = genes_data$name, keytype = "SYMBOL", column = "SYMBOL")
+
+
+# Check data types of columns
+column_types <- sapply(genes_data, class)
+
+# Find columns containing lists
+list_columns <- which(sapply(genes_data, is.list))
+
+# Print column names and their data types
+print(column_types)
+print(list_columns)
+
+# Flatten the lists in the specified column to character or numeric
+genes_data$ENTREZID <- sapply(genes_data$ENTREZID, function(x) paste(unlist(x), collapse = ","))
+genes_data$ENSEMBL <- sapply(genes_data$ENSEMBL, function(x) paste(unlist(x), collapse = ","))
+genes_data$SYMBOL <- sapply(genes_data$SYMBOL, function(x) paste(unlist(x), collapse = ","))
+
+# Write the data frame to a CSV file with tab ('\t') separator
+write.table(genes_data, file = 'genes_on_PMDS.csv', sep = "\t", row.names = FALSE, col.names = TRUE, quote = FALSE)
+
+###################################################################################################################
+
+# Prepare input data
+# Subset the columns "SYMBOL" and "ENTREZID" and store them in a new data frame
+input_genes <- genes_data[, c("SYMBOL", "ENTREZID")]
+
+
+# Set the organism
+# SET THE DESIRED ORGANISM HERE
+organism = "org.Mm.eg.db"
+library(organism, character.only = TRUE)
+
+#####################################################################################################################
+#####################################################################################################################
+
+#GGO_MF
+ggo_MF <- groupGO(gene     = input_genes$ENTREZID,
+               OrgDb    = org.Mm.eg.db,
+               ont      = "MF",
+               level    = 3,
+               readable = TRUE)
+ggo_MF.df <- as.data.frame(ggo_MF)
+ggo_MF.df <- ggo_MF.df%>%
+  arrange(desc(Count))
+
+write.table(ggo_MF.df, file = paste0('ggo_MF', '.txt'), sep = "\t", quote=F)
+
+head(ggo_MF, 10)
+
+
+############################################################################################ 
+############################################################################################ 
+
+# GGO_CC
+ggo_CC <- groupGO(gene     = input_genes$ENTREZID,
+               OrgDb    = org.Mm.eg.db,
+               ont      = "CC",
+               level    = 3,
+               readable = TRUE)
+
+ggo_CC.df <- as.data.frame(ggo_CC)
+ggo_CC.df <- ggo_CC.df%>%
+  arrange(desc(Count))
+write.table(ggo_CC.df, file = paste0('ggo_CC', '.txt'), sep = "\t", quote=F)
+
+head(ggo_CC, 10)
+
+############################################################################################ 
+############################################################################################ 
+
+# GGO_BP
+ggo_BP <- groupGO(gene     = input_genes$ENTREZID,
+               OrgDb    = org.Mm.eg.db,
+               ont      = "BP",
+               level    = 3,
+               readable = TRUE)
+
+ggo_BP.df <- as.data.frame(ggo_BP)
+ggo_BP.df <- ggo_BP.df%>%
+  arrange(desc(Count))
+write.table(ggo_BP.df, file = paste0('ggo_BP', '.txt'), sep = "\t", quote=F)
+
+head(ggo_BP, 10)
+
+############################################################################################ 
+############################################################################################ 
+
+
+## Enrich GO 
+# Over representation test of a GO term in the gene list set as input.
+
+engo_all <- enrichGO(gene = input_genes$ENTREZID,
+                 OrgDb = org.Mm.eg.db, 
+                 ont = "ALL", 
+                 pAdjustMethod = "BH", 
+                 pvalueCutoff =0.01, 
+                 qvalueCutoff = 0.05, 
+                 readable = TRUE)
+
+
+engo_all_df <- as.data.frame(engo_all)
+engo_all_df <- engo_all_df%>%
+  arrange(p.adjust)
+write.table(engo_all_df, file = paste0('engo_all', '.txt'), sep = "\t", quote=F)
+
+head(engo_all)
+
+############################################################################################ 
+############################################################################################ 
+
+### Barplot
+
+# Reduce GO term redundancy
+# We then use the simplify function to reduce redundancy of enriched GO terms. default parameters to run the function.
+
+SimGO = simplify(engo_all, cutoff = 0.7, by = "p.adjust", select_fun = min, measure = "Wang", 
+           semData = NULL)
+nrow(SimGO)
+
+# Plot enrichment
+# We will use the barplot function from enrichplot (previously a function in clusterProfiler)
+
+#Decide the sub-ontology to test
+#BP: Biological Process
+#CC: Cellular Component
+#MF: Molecular Function
+
+ontology <- "BP"
+
+png(paste0("Barplot_GO_on_PMDs.png"), width = 12, height = 12, units = "in", res = 300)
+barplot(SimGO, showCategory = 20) + 
+    ggtitle(paste0("GO-", ontology," Genes on PMDs")) + 
+    xlab("Enriched terms") + ylab("Count")
+invisible(dev.off())
+
+############################################################################################ 
+############################################################################################ 
+
+# Barplot
+# Bar plot is the most widely used method to visualize enriched terms. It depicts the enrichment scores (e.g. p values) and gene count or ratio as bar height and color
+
+barplot(SimGO, showCategory = 20)
+
+barplot <- barplot(SimGO, showCategory = 20 ) + 
+    ggtitle(paste0("GO-", ontology," Genes on PMDs")) +
+    theme(axis.text.y = element_text(hjust = 1, vjust = 0.5, size = 10)) +
+    xlab("Number of genes")
+
+ggsave(barplot, filename = paste0("Barplot_enrich_GO.pdf"), dpi=800, width = 15)
+
+############################################################################################ 
+############################################################################################ 
+
+# Dot plot
+# Dot plot is similar to bar plot with the capability to encode another score as dot size.
+
+Dot_plot <- dotplot(SimGO, showCategory=30) + ggtitle("dotplot for ORA")
+
+# Save the Dot plot as a PDF
+ggsave("Dot_plot_GO_on_PMDs.pdf", plot = Dot_plot, width = 15, height = 15)
+
+############################################################################################ 
+############################################################################################ 
+
+# Gene-Concept Network
+# Both the barplot() and dotplot() only displayed most significant or selected enriched terms, while users may want to know which genes are involved in these significant terms. In order to consider the potentially biological complexities in which a gene may belong to multiple annotation categories and provide information of numeric changes if available, we developed the cnetplot() function to extract the complex association. The cnetplot() depicts the linkages of genes and biological concepts (e.g. GO terms or KEGG pathways) as a network. GSEA result is also supported with only core enriched genes displayed.
+
+# Version 1
+
+## convert gene ID to Symbol
+edox <- setReadable(SimGO, 'org.Hs.eg.db', 'ENTREZID')
+a1 <- cnetplot(edox, node_label="category")
+## categorySize can be scaled by 'pvalue' or 'geneNum'
+a2 <- cnetplot(edox, categorySize="pvalue")
+a3 <- cnetplot(edox, circular = TRUE, colorEdge = TRUE) 
+combined_plot_1 <- cowplot::plot_grid(a1, a2, a3, ncol=3, labels=LETTERS[1:3], rel_widths=c(.8, .8, 1.2))
+
+
+# Save the combined plot as a PDF
+ggsave("combined_plot_1.pdf", plot = combined_plot_1, width = 40, height = 20)
+
+############################################################################################ 
+
+# Version 2
+
+## convert gene ID to Symbol
+edox <- setReadable(SimGO, 'org.Hs.eg.db', 'ENTREZID')
+## categorySize can be scaled by 'pvalue' or 'geneNum'
+k1 <- cnetplot(edox, categorySize="pvalue")
+k2 <- cnetplot(edox, circular = TRUE, colorEdge = TRUE) 
+combined_plot_k <- cowplot::plot_grid(k1, k2, ncol=2, labels=LETTERS[1:2])
+
+
+# Save the combined plot as a PDF
+ggsave("combined_plot_k.pdf", plot = combined_plot_k, width = 40, height = 10)
+
+############################################################################################ 
+############################################################################################ 
+
+### Cnetplot
+#The cnetplot depicts the linkages of genes and biological concepts (e.g. GO terms or KEGG pathways) as a network (helpful to see which genes are involved in enriched pathways and genes that may belong to multiple annotation categories).
+
+# Labelling nodes by selected subset. gene category (A), gene name (B), both gene category and gene name (C, default) and not to label at all (D).
+
+
+# Your code to create the combined plot
+b1 <- cnetplot(SimGO, node_label = "category", cex_label_category = 1.2) 
+b2 <- cnetplot(SimGO, node_label = "gene", cex_label_gene = 0.8) 
+b3 <- cnetplot(SimGO, node_label = "all") 
+b4 <- cnetplot(SimGO, node_label = "none", color_category = 'firebrick', color_gene = 'steelblue') 
+combined_plot_2 <- plot_grid(b1, b2, b3, b4, ncol = 2, labels = LETTERS[1:4])
+
+# Save the combined plot as a PDF
+ggsave("combined_plot_2.pdf", plot = combined_plot_2, width = 40, height = 25)
+
+############################################################################################ 
+############################################################################################ 
+
+# Heatmap-like functional classification
+# The heatplot is similar to cnetplot, while displaying the relationships as a heatmap. The gene-concept network may become too complicated if user want to show a large number significant terms. The heatplot can simplify the result and more easy to identify expression patterns.
+
+c1 <- heatplot(SimGO, showCategory=20)
+combined_plot_3 <- cowplot::plot_grid(c1, ncol=1, labels=LETTERS[1])
+
+# Save the combined plot as a PDF
+ggsave("combined_plot_3.pdf", plot = combined_plot_3, width = 30, height = 7)
+
+############################################################################################ 
+############################################################################################ 
+
+# Tree plot
+#The treeplot() function performs hierarchical clustering of enriched terms. It relies on the pairwise similarities of the enriched terms calculated by the pairwise_termsim() function, which by default using Jaccard’s similarity index (JC). Users can also use semantic similarity values if it is supported (e.g., GO, DO and MeSH).
+
+#The default agglomeration method in treeplot() is ward.D and users can specify other methods via the hclust_method parameter (e.g., ‘average’, ‘complete’, ‘median’, ‘centroid’, etc., see also the document of the hclust() function). The treeplot() function will cut the tree into several subtrees (specify by the nCluster parameter (default is 5)) and labels subtrees using high-frequency words. This will reduce the complexity of the enriched result and improve user interpretation ability.
+
+edox2 <- pairwise_termsim(edox)
+d1 <- treeplot(edox2)
+d2 <- treeplot(edox2, hclust_method = "average")
+combined_plot_4 <- aplot::plot_list(d1, d2, tag_levels='A')
+
+# Save the combined plot as a PDF
+ggsave("combined_plot_4.pdf", plot = combined_plot_4, width = 30, height = 10)
+
+############################################################################################ 
+############################################################################################ 
+
+# Enrichment Map
+#Enrichment map organizes enriched terms into a network with edges connecting overlapping gene sets. In this way, mutually overlapping gene sets are tend to cluster together, making it easy to identify functional module.
+
+#The emapplot function supports results obtained from hypergeometric test and gene set enrichment analysis. The cex_category parameter can be used to resize nodes, as demonstrated in Figure 15.8 B, and the layout parameter can adjust the layout, as demonstrated in Figure 15.8 C and D.
+
+
+edo <- pairwise_termsim(SimGO)
+e1 <- emapplot(edo)
+e2 <- emapplot(edo, cex_category=1.5)
+e3 <- emapplot(edo, layout="kk")
+e4 <- emapplot(edo, cex_category=1.5,layout="kk") 
+combined_plot_5 <- cowplot::plot_grid(e1, e2, e3, e4, ncol=2, labels=LETTERS[1:4])
+
+
+# Save the combined plot as a PDF
+ggsave("combined_plot_5.pdf", plot = combined_plot_5, width = 30, height = 30)
+
+############################################################################################ 
+############################################################################################ 
+
+# UpSet Plot
+# The upsetplot is an alternative to cnetplot for visualizing the complex association between genes and gene sets. It emphasizes the gene overlapping among different gene sets.
+
+
+combined_plot_6 <- upsetplot(edo)
+
+# Save the combined plot as a PDF
+ggsave("combined_plot_6.pdf", plot = combined_plot_6, width = 15, height = 5)
+
+
+############################################################################################ 
+############################################################################################ 
+
+# pubmed trend of enriched terms
+# One of the problem of enrichment analysis is to find pathways for further investigation. Here, we provide pmcplot function to plot the number/proportion of publications trend based on the query result from PubMed Central. Of course, users can use pmcplot in other scenarios. All text that can be queried on PMC is valid as input of pmcplot.
+
+
+terms <- edo$Description[1:10]
+f <- pmcplot(terms, 2010:2023)
+f2 <- pmcplot(terms, 2010:2023, proportion=FALSE)
+combined_plot_7 <- plot_grid(f, f2, ncol=2)
+
+# Save the combined plot as a PDF
+ggsave("combined_plot_7.pdf", plot = combined_plot_7, width = 15, height = 5)
+
+
+############################################################################################ 
+############################################################################################
+
+# Cnetplot
+cnetplot(SimGO, categorySize="pvalue", showCategory = 4)
+
+cnetplot<-cnetplot(SimGO, categorySize="pvalue", showCategory = 4) 
+
+ggsave(cnetplot, filename = paste0("Linekage_genes_biological_concepts_GO.pdf"), dpi = 800, width = 15)
+
+
+############################################################################################ 
+############################################################################################ 
+
+### Emaplot
+# running the pairwise_termsim function
+x2 <- pairwise_termsim(SimGO)
+emapplot(x2)
+
+# Enrichment map organizes enriched terms into a network with edges connecting overlapping gene sets. In this way, mutually overlapping gene sets are tend to cluster together, making it easy to identify functional module.The emapplot function supports results obtained from hypergeometric test and gene set enrichment analysis.
+
+emapplot(x2)
+emapplot <- emapplot(x2)
+
+ggsave(emapplot, filename = paste0("Emapplot_enrichGOTERM.pdf"), dpi = 600, width = 12, height = 10)
+
+
+############################################################################################ 
+############################################################################################ 
